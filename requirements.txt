@@ -1,0 +1,7 @@
+numpy>=1.20.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+llama-cpp-python>=0.2.0
+requests>=2.28.0
+tqdm>=4.65.0  # для красивого прогресс-бара
+huggingface-hub>=0.17.0  # опционально, для удобной работы с HF

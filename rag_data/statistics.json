@@ -1,390 +1,102 @@
 {
-  "total_chunks": 724,
-  "total_files": 63,
-  "avg_chars_per_chunk": 392.2513812154696,
-  "min_chars_per_chunk": 64,
+  "total_chunks": 723,
+  "total_files": 15,
+  "avg_chars_per_chunk": 388.5255878284924,
+  "min_chars_per_chunk": 53,
   "max_chars_per_chunk": 500,
-  "avg_words_per_chunk": 65.39779005524862,
-  "min_words_per_chunk": 13,
-  "max_words_per_chunk": 96,
+  "avg_words_per_chunk": 64.81881051175657,
+  "min_words_per_chunk": 3,
+  "max_words_per_chunk": 98,
   "files": {
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_1.md": {
       "filename": "doc_1.md",
-      "chunks": 17,
-      "total_chars": 7884,
-      "total_words": 1385
+      "chunks": 30,
+      "total_chars": 12703,
+      "total_words": 2191
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_10.md": {
       "filename": "doc_10.md",
-      "chunks": 15,
-      "total_chars": 5610,
-      "total_words": 906
+      "chunks": 56,
+      "total_chars": 19374,
+      "total_words": 3232
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_11.md": {
       "filename": "doc_11.md",
-      "chunks": 11,
-      "total_chars": 4816,
-      "total_words": 792
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_12.md": {
-      "filename": "doc_12.md",
-      "chunks": 15,
-      "total_chars": 5941,
-      "total_words": 990
+      "chunks": 1,
+      "total_chars": 128,
+      "total_words": 3
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_13.md": {
       "filename": "doc_13.md",
-      "chunks": 9,
-      "total_chars": 3409,
-      "total_words": 610
+      "chunks": 79,
+      "total_chars": 29940,
+      "total_words": 5020
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_14.md": {
       "filename": "doc_14.md",
-      "chunks": 9,
-      "total_chars": 3753,
-      "total_words": 607
+      "chunks": 8,
+      "total_chars": 3338,
+      "total_words": 541
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_15.md": {
       "filename": "doc_15.md",
-      "chunks": 7,
-      "total_chars": 2749,
-      "total_words": 498
+      "chunks": 25,
+      "total_chars": 9555,
+      "total_words": 1561
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_16.md": {
       "filename": "doc_16.md",
-      "chunks": 11,
-      "total_chars": 4335,
-      "total_words": 709
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_17.md": {
-      "filename": "doc_17.md",
-      "chunks": 11,
-      "total_chars": 4448,
-      "total_words": 733
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_18.md": {
-      "filename": "doc_18.md",
-      "chunks": 8,
-      "total_chars": 3356,
-      "total_words": 573
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_19.md": {
-      "filename": "doc_19.md",
-      "chunks": 10,
-      "total_chars": 4391,
-      "total_words": 725
+      "chunks": 97,
+      "total_chars": 36165,
+      "total_words": 6052
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_2.md": {
       "filename": "doc_2.md",
-      "chunks": 13,
-      "total_chars": 4812,
-      "total_words": 809
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_20.md": {
-      "filename": "doc_20.md",
-      "chunks": 18,
-      "total_chars": 7536,
-      "total_words": 1270
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_21.md": {
-      "filename": "doc_21.md",
-      "chunks": 8,
-      "total_chars": 3398,
-      "total_words": 556
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_22.md": {
-      "filename": "doc_22.md",
-      "chunks": 12,
-      "total_chars": 4832,
-      "total_words": 795
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_23.md": {
-      "filename": "doc_23.md",
-      "chunks": 10,
-      "total_chars": 3706,
-      "total_words": 577
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_24.md": {
-      "filename": "doc_24.md",
-      "chunks": 12,
-      "total_chars": 4850,
-      "total_words": 839
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_25.md": {
-      "filename": "doc_25.md",
-      "chunks": 9,
-      "total_chars": 3870,
-      "total_words": 671
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_26.md": {
-      "filename": "doc_26.md",
-      "chunks": 6,
-      "total_chars": 1902,
-      "total_words": 331
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_27.md": {
-      "filename": "doc_27.md",
-      "chunks": 8,
-      "total_chars": 2987,
-      "total_words": 511
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_28.md": {
-      "filename": "doc_28.md",
-      "chunks": 14,
-      "total_chars": 5903,
-      "total_words": 1006
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_29.md": {
-      "filename": "doc_29.md",
-      "chunks": 10,
-      "total_chars": 3109,
-      "total_words": 521
+      "chunks": 27,
+      "total_chars": 11692,
+      "total_words": 1936
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_3.md": {
       "filename": "doc_3.md",
-      "chunks": 14,
-      "total_chars": 6253,
-      "total_words": 1038
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_30.md": {
-      "filename": "doc_30.md",
-      "chunks": 14,
-      "total_chars": 6051,
-      "total_words": 977
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_31.md": {
-      "filename": "doc_31.md",
-      "chunks": 11,
-      "total_chars": 4473,
-      "total_words": 789
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_32.md": {
-      "filename": "doc_32.md",
-      "chunks": 12,
-      "total_chars": 4953,
-      "total_words": 807
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_33.md": {
-      "filename": "doc_33.md",
-      "chunks": 9,
-      "total_chars": 3154,
-      "total_words": 495
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_34.md": {
-      "filename": "doc_34.md",
-      "chunks": 9,
-      "total_chars": 3258,
-      "total_words": 537
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_35.md": {
-      "filename": "doc_35.md",
-      "chunks": 8,
-      "total_chars": 3324,
-      "total_words": 548
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_36.md": {
-      "filename": "doc_36.md",
-      "chunks": 8,
-      "total_chars": 3070,
-      "total_words": 511
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_37.md": {
-      "filename": "doc_37.md",
-      "chunks": 7,
-      "total_chars": 3077,
-      "total_words": 511
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_38.md": {
-      "filename": "doc_38.md",
-      "chunks": 15,
-      "total_chars": 6291,
-      "total_words": 1032
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_39.md": {
-      "filename": "doc_39.md",
-      "chunks": 8,
-      "total_chars": 2833,
-      "total_words": 478
+      "chunks": 29,
+      "total_chars": 12164,
+      "total_words": 2063
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_4.md": {
       "filename": "doc_4.md",
-      "chunks": 12,
-      "total_chars": 5079,
-      "total_words": 890
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_40.md": {
-      "filename": "doc_40.md",
-      "chunks": 20,
-      "total_chars": 7430,
-      "total_words": 1202
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_41.md": {
-      "filename": "doc_41.md",
-      "chunks": 25,
-      "total_chars": 10666,
-      "total_words": 1837
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_42.md": {
-      "filename": "doc_42.md",
-      "chunks": 10,
-      "total_chars": 3774,
-      "total_words": 612
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_43.md": {
-      "filename": "doc_43.md",
-      "chunks": 11,
-      "total_chars": 3974,
-      "total_words": 653
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_44.md": {
-      "filename": "doc_44.md",
-      "chunks": 8,
-      "total_chars": 2885,
-      "total_words": 461
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_45.md": {
-      "filename": "doc_45.md",
-      "chunks": 6,
-      "total_chars": 2154,
-      "total_words": 367
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_46.md": {
-      "filename": "doc_46.md",
-      "chunks": 19,
-      "total_chars": 6335,
-      "total_words": 1033
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_47.md": {
-      "filename": "doc_47.md",
-      "chunks": 17,
-      "total_chars": 6954,
-      "total_words": 1105
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_48.md": {
-      "filename": "doc_48.md",
-      "chunks": 11,
-      "total_chars": 4440,
-      "total_words": 744
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_49.md": {
-      "filename": "doc_49.md",
-      "chunks": 5,
-      "total_chars": 1791,
-      "total_words": 293
+      "chunks": 14,
+      "total_chars": 5587,
+      "total_words": 927
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_5.md": {
       "filename": "doc_5.md",
-      "chunks": 12,
-      "total_chars": 3409,
-      "total_words": 587
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_50.md": {
-      "filename": "doc_50.md",
-      "chunks": 12,
-      "total_chars": 5139,
-      "total_words": 882
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_51.md": {
-      "filename": "doc_51.md",
-      "chunks": 8,
-      "total_chars": 3466,
-      "total_words": 575
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_52.md": {
-      "filename": "doc_52.md",
-      "chunks": 10,
-      "total_chars": 3872,
-      "total_words": 628
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_53.md": {
-      "filename": "doc_53.md",
-      "chunks": 10,
-      "total_chars": 3427,
-      "total_words": 568
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_54.md": {
-      "filename": "doc_54.md",
-      "chunks": 9,
-      "total_chars": 3629,
-      "total_words": 561
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_55.md": {
-      "filename": "doc_55.md",
-      "chunks": 13,
-      "total_chars": 4847,
-      "total_words": 765
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_56.md": {
-      "filename": "doc_56.md",
-      "chunks": 13,
-      "total_chars": 4594,
-      "total_words": 754
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_57.md": {
-      "filename": "doc_57.md",
-      "chunks": 10,
-      "total_chars": 3656,
-      "total_words": 607
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_58.md": {
-      "filename": "doc_58.md",
-      "chunks": 10,
-      "total_chars": 4099,
-      "total_words": 702
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_59.md": {
-      "filename": "doc_59.md",
-      "chunks": 17,
-      "total_chars": 6162,
-      "total_words": 1036
+      "chunks": 22,
+      "total_chars": 7358,
+      "total_words": 1197
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_6.md": {
       "filename": "doc_6.md",
-      "chunks": 10,
-      "total_chars": 3674,
-      "total_words": 623
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_60.md": {
-      "filename": "doc_60.md",
-      "chunks": 13,
-      "total_chars": 4964,
-      "total_words": 820
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_61.md": {
-      "filename": "doc_61.md",
-      "chunks": 19,
-      "total_chars": 6227,
-      "total_words": 1058
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_62.md": {
-      "filename": "doc_62.md",
-      "chunks": 7,
-      "total_chars": 3061,
-      "total_words": 518
-    },
-    "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_63.md": {
-      "filename": "doc_63.md",
-      "chunks": 19,
-      "total_chars": 7459,
-      "total_words": 1250
+      "chunks": 41,
+      "total_chars": 16282,
+      "total_words": 2692
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_7.md": {
       "filename": "doc_7.md",
-      "chunks": 11,
-      "total_chars": 4755,
-      "total_words": 787
+      "chunks": 149,
+      "total_chars": 59971,
+      "total_words": 10034
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_8.md": {
       "filename": "doc_8.md",
-      "chunks": 13,
-      "total_chars": 5408,
-      "total_words": 885
+      "chunks": 71,
+      "total_chars": 27655,
+      "total_words": 4612
     },
     "/Users/alamonall/Documents/git/personal/rag/knowledge_base_new/doc_9.md": {
       "filename": "doc_9.md",
-      "chunks": 6,
-      "total_chars": 2326,
-      "total_words": 408
+      "chunks": 74,
+      "total_chars": 28992,
+      "total_words": 4803
     }
   }
 }

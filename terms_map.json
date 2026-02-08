@@ -1,293 +1,293 @@
 [
   {
     "original": "Aragorn",
-    "generated": "Cednard"
+    "generated": "Lostorb"
   },
   {
     "original": "Arathorn",
-    "generated": "Primalhourglass"
+    "generated": "Umberdrake"
   },
   {
     "original": "Gilraen",
-    "generated": "Varnawarzane"
+    "generated": "Mondhakaron"
   },
   {
     "original": "Strider",
-    "generated": "Hiddencrown"
+    "generated": "Kaelfield"
   },
   {
     "original": "Elessar",
-    "generated": "Quantumorb"
+    "generated": "Hughmond"
   },
   {
     "original": "Dúnedain",
-    "generated": "Hakorern",
+    "generated": "Paruk",
     "stems": [
       "Dunedain"
     ]
   },
   {
     "original": "Telcontar",
-    "generated": "Kaelheart"
+    "generated": "Songawar"
   },
   {
     "original": "Gondor",
-    "generated": "Buran"
+    "generated": "Etherealshield"
   },
   {
     "original": "Arnor",
-    "generated": "Saroth"
+    "generated": "Bareth"
   },
   {
     "original": "Isildur",
-    "generated": "Vaakcedran"
+    "generated": "Faith"
   },
   {
     "original": "Narsil",
-    "generated": "Maorn"
+    "generated": "Zaxelion"
   },
   {
     "original": "Andúril",
-    "generated": "Forgottenamulet"
+    "generated": "Umberwing"
   },
   {
     "original": "Ring",
-    "generated": "Paulstone"
+    "generated": "Corithhard"
   },
   {
     "original": "hobbit",
-    "generated": "Talenurn"
+    "generated": "Warak"
   },
   {
     "original": "Hornburg",
-    "generated": "Dureth"
+    "generated": "Zanewin"
   },
   {
     "original": "Return of the King",
-    "generated": "Kauro"
+    "generated": "Owenville"
   },
   {
     "original": "Silmarillion",
-    "generated": "Raranero"
+    "generated": "Celestialkey"
   },
   {
     "original": "Third Age",
-    "generated": "Jatarurn"
+    "generated": "Topaztail"
   },
   {
     "original": "Elros Tar-Minyatur",
-    "generated": "Kareth"
+    "generated": "Wawynorn"
   },
   {
     "original": "Andúnië",
-    "generated": "Iaern"
+    "generated": "Rubystorm"
   },
   {
     "original": "Elendil",
-    "generated": "Ignisrage"
+    "generated": "Taoro"
   },
   {
     "original": "Elrond",
-    "generated": "Pyrehorn"
+    "generated": "Marig"
   },
   {
     "original": "Arvedui",
-    "generated": "Novasight"
+    "generated": "Tarcor"
   },
   {
     "original": "Fíriel",
-    "generated": "Favenori"
+    "generated": "Dagwood"
   },
   {
     "original": "Anárion",
-    "generated": "Aeiel"
+    "generated": "Wispsight"
   },
   {
     "original": "Rivendell",
-    "generated": "Quantumseal"
+    "generated": "Barok"
   },
   {
     "original": "Estel",
-    "generated": "Forgottentome"
+    "generated": "Taruk"
   },
   {
     "original": "Barahir",
-    "generated": "Vividscale"
+    "generated": "Kalorarn"
   },
   {
     "original": "Annúminas",
-    "generated": "Rubywing"
+    "generated": "Rubymane"
   },
   {
     "original": "Arwen",
-    "generated": "Xaren"
+    "generated": "Jauth"
   },
   {
     "original": "Lothlórien",
-    "generated": "Parurougvik"
+    "generated": "Yaoro"
   },
   {
     "original": "Lórien",
-    "generated": "Iguk"
+    "generated": "Durath"
   },
   {
     "original": "Galadriel",
-    "generated": "Vividhorn"
+    "generated": "Ignisrage"
   },
   {
     "original": "Angmar",
-    "generated": "Saion"
+    "generated": "Tarsilfar"
   },
   {
     "original": "Shire",
-    "generated": "Unek"
+    "generated": "Durenlenheart"
   },
   {
     "original": "Thengel",
-    "generated": "Durin"
+    "generated": "Cauel"
   },
   {
     "original": "Rohan",
-    "generated": "Xenorage"
+    "generated": "Kaforoth"
   },
   {
     "original": "Ecthelion",
-    "generated": "Primalamulet"
+    "generated": "Astralblade"
   },
   {
     "original": "Thorongil",
-    "generated": "Divinephylactery"
+    "generated": "Zaxelion"
   },
   {
     "original": "Eagle of the Star",
-    "generated": "Infernaltome"
+    "generated": "Yadoroth"
   },
   {
     "original": "Umbar",
-    "generated": "Quartzhorn"
+    "generated": "Titantome"
   },
   {
     "original": "Cerin",
-    "generated": "Lenakbarbur"
+    "generated": "Lostphylactery"
   },
   {
     "original": "Amroth",
-    "generated": "Aeranern"
+    "generated": "Hiddenblade"
   },
   {
     "original": "Ilúvatar",
-    "generated": "Pyreclaw"
+    "generated": "Zaorn"
   },
   {
     "original": "Middle-earth",
-    "generated": "Morzamorma"
+    "generated": "Yorkville"
   },
   {
     "original": "Moria",
-    "generated": "Tomheart"
+    "generated": "Xanwood"
   },
   {
     "original": "Harad",
-    "generated": "Obsidianstaff"
+    "generated": "Ariward"
   },
   {
     "original": "Valandil",
-    "generated": "Novafrost"
+    "generated": "Pawin"
   },
   {
     "original": "Dúnadan",
-    "generated": "Markstone"
+    "generated": "Pyrebreath"
   },
   {
     "original": "Quenya",
-    "generated": "Branfred"
+    "generated": "Naloriel"
   },
   {
     "original": "Tarkil",
-    "generated": "Garath"
+    "generated": "Rubydrake"
   },
   {
     "original": "Trotter",
-    "generated": "Nedton"
+    "generated": "Owennard"
   },
   {
     "original": "Sindar",
-    "generated": "Paaro",
+    "generated": "Xenoclaw",
     "stems": [
       "Sindarin"
     ]
   },
   {
     "original": "Padathir",
-    "generated": "Quartzsight"
+    "generated": "Infernaltome"
   },
   {
     "original": "Edhelharn",
-    "generated": "Cedwood"
+    "generated": "Faorn"
   },
   {
     "original": "Elfstone",
-    "generated": "Eaari"
+    "generated": "Tarxelulf"
   },
   {
     "original": "Tolkien",
-    "generated": "Saron"
+    "generated": "Duron"
   },
   {
     "original": "Peregrin",
-    "generated": "Hiddenamulet"
+    "generated": "Obsidianblade"
   },
   {
     "original": "Boffin",
-    "generated": "Umberstorm"
+    "generated": "Ivanwood"
   },
   {
     "original": "Bilbo",
-    "generated": "Ignisdrake"
+    "generated": "Barith"
   },
   {
     "original": "Gandalf",
-    "generated": "Paael"
+    "generated": "Taeth"
   },
   {
     "original": "Fosco",
-    "generated": "Rubytail"
+    "generated": "Quinnville"
   },
   {
     "original": "Took",
-    "generated": "Waurn",
+    "generated": "Pareth",
     "stems": []
   },
   {
     "original": "Frodo",
-    "generated": "Rexfred"
+    "generated": "Varoth"
   },
   {
     "original": "Sam",
-    "generated": "Noblescroll",
+    "generated": "Jaarn",
     "stems": [
       "Samwise"
     ]
   },
   {
     "original": "Gamgee",
-    "generated": "Quantumamulet"
+    "generated": "Hiddentome"
   },
   {
     "original": "Rauros",
-    "generated": "Garoth"
+    "generated": "Lairnward"
   },
   {
     "original": "Ingold",
-    "generated": "Vikwood"
+    "generated": "Naael"
   },
   {
     "original": "Sauron",
-    "generated": "Titanscroll"
+    "generated": "Sapphirefang"
   },
   {
     "original": "Helms",
-    "generated": "Kaelog",
+    "generated": "Ikeaunin",
     "stems": [
       "Helm's",
       "Helm's"
@@ -295,124 +295,124 @@
   },
   {
     "original": "Dernhelm",
-    "generated": "Namorurn"
+    "generated": "Buron"
   },
   {
     "original": "Legolas",
-    "generated": "Raron",
+    "generated": "Hiddenamulet",
     "stems": [
       "Laegolas"
     ]
   },
   {
     "original": "Gimli",
-    "generated": "Xaern"
+    "generated": "Parik"
   },
   {
     "original": "Saruman",
-    "generated": "Yorkheart"
+    "generated": "Bertven"
   },
   {
     "original": "Edoras",
-    "generated": "Aldig"
+    "generated": "Tarwarnar"
   },
   {
     "original": "Théoden",
-    "generated": "Wispbreath"
+    "generated": "Ikfred"
   },
   {
     "original": "Éored",
-    "generated": "Iauth"
+    "generated": "Qagorath"
   },
   {
     "original": "Rohirrim",
-    "generated": "Etherealamulet"
+    "generated": "Xaigrar"
   },
   {
     "original": "Isengard",
-    "generated": "Pyretail"
+    "generated": "Faurn"
   },
   {
     "original": "Fangorn",
-    "generated": "Branyorionbor"
+    "generated": "Yaren"
   },
   {
     "original": "Ent",
-    "generated": "Laoth",
+    "generated": "Farath",
     "stems": [
       "Ents"
     ]
   },
   {
     "original": "Éomer",
-    "generated": "Tajoruth"
+    "generated": "Umbralcore"
   },
   {
     "original": "Elladan",
-    "generated": "Hiddenhourglass"
+    "generated": "Saukyaug"
   },
   {
     "original": "Elrohir",
-    "generated": "Umberwing"
+    "generated": "Paulstone"
   },
   {
     "original": "Halbarad",
-    "generated": "Pauamirville"
+    "generated": "Astralmirror"
   },
   {
     "original": "Athelas",
-    "generated": "Tomton"
+    "generated": "Aelenaro"
   },
   {
     "original": "Glorfindel",
-    "generated": "Fredsil"
+    "generated": "Karmicseal"
   },
   {
     "original": "Elf-lord",
-    "generated": "Shieldbordarig"
+    "generated": "Tauel"
   },
   {
     "original": "Nazgûl",
-    "generated": "Xarin"
+    "generated": "Naan"
   },
   {
     "original": "Ringwraiths",
-    "generated": "Frednard"
+    "generated": "Infernalcrown"
   },
   {
     "original": "Bree",
-    "generated": "Faron",
+    "generated": "Ivanstone",
     "stems": [
       "Bree-lands"
     ]
   },
   {
     "original": "Weathertop",
-    "generated": "Vividfang"
+    "generated": "Jadeamulet"
   },
   {
     "original": "Trollshaws",
-    "generated": "Harig"
+    "generated": "Maeri"
   },
   {
     "original": "Bruinen",
-    "generated": "Gairn"
+    "generated": "Ignishorn"
   },
   {
     "original": "Boromir",
-    "generated": "Hasar"
+    "generated": "Glimmerfrost"
   },
   {
     "original": "Peter Jackson",
-    "generated": "Horyaaelhor"
+    "generated": "Vairn"
   },
   {
     "original": "Dunharrow",
-    "generated": "Jadeshield"
+    "generated": "Noblescroll"
   },
   {
     "original": "palantír",
-    "generated": "Ignisclaw",
+    "generated": "Radiantseal",
     "stems": [
       "palantíri",
       "Palantir"
@@ -420,771 +420,771 @@
   },
   {
     "original": "Pelargir",
-    "generated": "Ogaro"
+    "generated": "Losthourglass"
   },
   {
     "original": "Anduin",
-    "generated": "Saith"
+    "generated": "Yarvarivan"
   },
   {
     "original": "Cair Andros",
-    "generated": "Harog"
+    "generated": "Eaurn"
   },
   {
     "original": "Ithilien",
-    "generated": "Haren"
+    "generated": "Buruk"
   },
   {
     "original": "Easterlings",
-    "generated": "Rexson"
+    "generated": "Tarith"
   },
   {
     "original": "Aranarth",
-    "generated": "Divinecrown"
+    "generated": "Taero"
   },
   {
     "original": "Midgewater Marshes",
-    "generated": "Haloriel"
+    "generated": "Shieldvilleeth"
   },
   {
     "original": "Númenórean",
-    "generated": "Vividgrace"
+    "generated": "Onyxgrace"
   },
   {
     "original": "Tar-Minyatur",
-    "generated": "Haori"
+    "generated": "Varuk"
   },
   {
     "original": "Rangers of the North",
-    "generated": "Yamiriel"
+    "generated": "Seanfield"
   },
   {
     "original": "Baggins",
-    "generated": "Leoson"
+    "generated": "Aldfred"
   },
   {
     "original": "Gollum",
-    "generated": "Fredblade"
+    "generated": "Ignishorn"
   },
   {
     "original": "Rhovanion",
-    "generated": "Quantumorb"
+    "generated": "Jacorern"
   },
   {
     "original": "Thranduil",
-    "generated": "Karmictome"
+    "generated": "Kadoruel"
   },
   {
     "original": "Mirkwood",
-    "generated": "Kaeth"
+    "generated": "Markfred"
   },
   {
     "original": "Mordor",
-    "generated": "Waboruro"
+    "generated": "Galenuel"
   },
   {
     "original": "Gildor",
-    "generated": "Xanwin"
+    "generated": "Owenmond"
   },
   {
     "original": "Inglorion",
-    "generated": "Primaltome"
+    "generated": "Kaelbert"
   },
   {
     "original": "Tom",
-    "generated": "Paularnfred"
+    "generated": "Infernalmirror"
   },
   {
     "original": "Bombadil",
-    "generated": "Hughnard"
+    "generated": "Hughville"
   },
   {
     "original": "Barrow-downs",
-    "generated": "Mysticseal"
+    "generated": "Varag"
   },
   {
     "original": "Prancing Pony",
-    "generated": "Shieldvikarook",
+    "generated": "Ethfred",
     "stems": [
       "Inn of the Prancing Pony"
     ]
   },
   {
     "original": "Barliman",
-    "generated": "Katareri"
+    "generated": "Hiddenblade"
   },
   {
     "original": "Butterbur",
-    "generated": "Forgottentome"
+    "generated": "Taranirn"
   },
   {
     "original": "Lone-lands",
-    "generated": "Vikbert"
+    "generated": "Unoriae"
   },
   {
     "original": "Eärendil",
-    "generated": "Wisprage"
+    "generated": "Quantumtome"
   },
   {
     "original": "Mount Doom",
-    "generated": "Aeern",
+    "generated": "Paulblade",
     "stems": [
       "mountain"
     ]
   },
   {
     "original": "Cracks of Doom",
-    "generated": "Owenfield"
+    "generated": "Wavenoro"
   },
   {
     "original": "Pippin",
-    "generated": "Durun"
+    "generated": "Onyxsight"
   },
   {
     "original": "Misty Mountains",
-    "generated": "Noblekey"
+    "generated": "Aldfred"
   },
   {
     "original": "Crebain",
-    "generated": "Branward"
+    "generated": "Quinnfield"
   },
   {
     "original": "Caradhras",
-    "generated": "Narak"
+    "generated": "Shieldtonsarxar"
   },
   {
     "original": "Warg",
-    "generated": "Farxelric"
+    "generated": "Paranoro"
   },
   {
     "original": "Watcher in the Water",
-    "generated": "Ethielukoth"
+    "generated": "Haorn"
   },
   {
     "original": "Mazarbul",
-    "generated": "Obsidianscroll"
+    "generated": "Ulfmorern"
   },
   {
     "original": "Cave-troll",
-    "generated": "Tomfield"
+    "generated": "Oamiruel"
   },
   {
     "original": "Balrog",
-    "generated": "Rubystorm"
+    "generated": "Hiddenphylactery"
   },
   {
     "original": "Khazad-dûm",
-    "generated": "Haran"
+    "generated": "Egstonehard"
   },
   {
     "original": "Anarion",
-    "generated": "Dagson"
+    "generated": "Umberfrost"
   },
   {
     "original": "Argonath",
-    "generated": "Xenosight"
+    "generated": "Edbert"
   },
   {
     "original": "Parth Galen",
-    "generated": "Titanseal"
+    "generated": "Quinnbert"
   },
   {
     "original": "Amon Hen",
-    "generated": "Chryscale"
+    "generated": "Jaaro"
   },
   {
     "original": "Uruk",
-    "generated": "Burak"
+    "generated": "Haranirn"
   },
   {
     "original": "hai",
-    "generated": "Emberclaw"
+    "generated": "Ignissight"
   },
   {
     "original": "Order of Wizards",
-    "generated": "Pyrefire"
+    "generated": "Farok"
   },
   {
     "original": "Council",
-    "generated": "Waran",
+    "generated": "Bladeig",
     "stems": [
       "White Council"
     ]
   },
   {
     "original": "Gríma",
-    "generated": "Wareth"
+    "generated": "Markbert"
   },
   {
     "original": "Wormtongue",
-    "generated": "Sonquinnha"
+    "generated": "Harddurothta"
   },
   {
     "original": "Tirith",
-    "generated": "Ulfton"
+    "generated": "Igjackraan"
   },
   {
     "original": "Paths of the Dead",
-    "generated": "Umbralcrown"
+    "generated": "Davenith"
   },
   {
     "original": "Malbeth the Seer",
-    "generated": "Tombert"
+    "generated": "Taron"
   },
   {
     "original": "Pelennor",
-    "generated": "Voidseal"
+    "generated": "Washieldharpar"
   },
   {
     "original": "White Tree",
-    "generated": "Dagfred"
+    "generated": "Fava"
   },
   {
     "original": "Denethor",
-    "generated": "Warath"
+    "generated": "Pyreclaw"
   },
   {
     "original": "Éowyn",
-    "generated": "Nedkaelseanpaul"
+    "generated": "Owenbert"
   },
   {
     "original": "Witch-king",
-    "generated": "Radiantcrown"
+    "generated": "Lostamulet"
   },
   {
     "original": "Faramir",
-    "generated": "Etherealmirror"
+    "generated": "Hughton"
   },
   {
     "original": "Ioreth",
-    "generated": "Vaoth"
+    "generated": "Kaelmond"
   },
   {
     "original": "The hands of the King are the hands of a healer, and so shall the rightful king be known",
-    "generated": "Dagward"
+    "generated": "Rubydrake"
   },
   {
     "original": "Minas",
-    "generated": "Uaero"
+    "generated": "Kaulf"
   },
   {
     "original": "Morgul",
-    "generated": "Daborirn"
+    "generated": "Rexblade"
   },
   {
     "original": "Black Gate",
-    "generated": "Dareth"
+    "generated": "Seanblade"
   },
   {
     "original": "Slag-hills",
-    "generated": "Quantummirror"
+    "generated": "Raren"
   },
   {
     "original": "Morannon",
-    "generated": "Dagric"
+    "generated": "Novabreath"
   },
   {
     "original": "Núrn",
-    "generated": "Varan"
+    "generated": "Matometh"
   },
   {
     "original": "Númenor",
-    "generated": "Rareg"
+    "generated": "Mystichourglass"
   },
   {
     "original": "Fourth Age",
-    "generated": "Seanfield"
+    "generated": "Iarava"
   },
   {
     "original": "Eldar",
-    "generated": "Narithhardvar",
+    "generated": "Cedshield",
     "stems": [
       "Eldarion"
     ]
   },
   {
     "original": "Imrahil",
-    "generated": "Eataruth"
+    "generated": "Yaroth"
   },
   {
     "original": "Gladden",
-    "generated": "Daron"
+    "generated": "Primaltome"
   },
   {
     "original": "Meneldil",
-    "generated": "Maurn"
+    "generated": "Seanblade"
   },
   {
     "original": "Pelendur",
-    "generated": "Ignisrage"
+    "generated": "Spectralseal"
   },
   {
     "original": "Eärnil",
-    "generated": "Cahorael"
+    "generated": "Doruth"
   },
   {
     "original": "Bill Ferny",
-    "generated": "Xenosight"
+    "generated": "Uairn"
   },
   {
     "original": "Envinyatar",
-    "generated": "Rubyhorn"
+    "generated": "Karmicamulet"
   },
   {
     "original": "Bingo",
-    "generated": "Vairn"
+    "generated": "Spectralscroll"
   },
   {
     "original": "B_olger",
-    "generated": "Celestialphylactery"
+    "generated": "Maari"
   },
   {
     "original": "Undómiel",
-    "generated": "Vaorn"
+    "generated": "Hughstone"
   },
   {
     "original": "Padathir",
-    "generated": "Emberscale"
+    "generated": "Zaagorikar"
   },
   {
     "original": "Rimbedir",
-    "generated": "Jahoreth"
+    "generated": "Zaneza"
   },
   {
     "original": "Balin",
-    "generated": "Emberrage"
+    "generated": "Luminhorn"
   },
   {
     "original": "Fundin",
-    "generated": "Sasilath"
+    "generated": "Haruk"
   },
   {
     "original": "Dwalin",
-    "generated": "Burog"
+    "generated": "Nareg"
   },
   {
     "original": "Thorin",
-    "generated": "Infernalhourglass"
+    "generated": "Othsonlaowen"
   },
   {
     "original": "Lonely Mountain",
-    "generated": "Sapphirescale"
+    "generated": "Ignisdrake"
   },
   {
     "original": "Oakenshield",
-    "generated": "Glimmerdrake"
+    "generated": "Quartzfrost"
   },
   {
     "original": "Erebor",
-    "generated": "Ernyalazar"
+    "generated": "Durug"
   },
   {
     "original": "Smaug",
-    "generated": "Jorornced"
+    "generated": "Heartxarith"
   },
   {
     "original": "Dunland",
-    "generated": "Obsidianring"
+    "generated": "Jadecore"
   },
   {
     "original": "Azanulbizar",
-    "generated": "Topazstorm"
+    "generated": "Darug"
   },
   {
     "original": "Thráin",
-    "generated": "Fredshield"
+    "generated": "Xanwood"
   },
   {
     "original": "Green Dragon",
-    "generated": "Branric"
+    "generated": "Xanfred"
   },
   {
     "original": "Eagle",
-    "generated": "Nobletome",
+    "generated": "Ceded",
     "stems": [
       "Eagles"
     ]
   },
   {
     "original": "Carrock",
-    "generated": "Varielmarpar"
+    "generated": "Jaael"
   },
   {
     "original": "Beorn",
-    "generated": "Celestialcrown"
+    "generated": "Noblecore"
   },
   {
     "original": "Lake-town",
-    "generated": "Oroariari"
+    "generated": "Xanfred"
   },
   {
     "original": "Roäc",
-    "generated": "Astralshield"
+    "generated": "Galenion"
   },
   {
     "original": "Battle of Five Armies",
-    "generated": "Wispsight"
+    "generated": "Harath"
   },
   {
     "original": "Bolg",
-    "generated": "Ealor"
+    "generated": "Igmondbert"
   },
   {
     "original": "Lake-men",
-    "generated": "Darith"
+    "generated": "Wispdrake"
   },
   {
     "original": "TA",
-    "generated": "Unwindaguel"
+    "generated": "Topazdrake"
   },
   {
     "original": "Bag End",
-    "generated": "Seannard"
+    "generated": "Radiantphylactery"
   },
   {
     "original": "Óin",
-    "generated": "Yarig"
+    "generated": "Hughheart"
   },
   {
     "original": "Ori",
-    "generated": "Tarbranran"
+    "generated": "Umbralcrown"
   },
   {
     "original": "Mithril",
-    "generated": "Cedhard"
+    "generated": "Edward"
   },
   {
     "original": "Durin",
-    "generated": "Rubyhorn"
+    "generated": "Branstone"
   },
   {
     "original": "Mirrormere",
-    "generated": "Harulfzar"
+    "generated": "Chryfrost"
   },
   {
     "original": "Mazarbul",
-    "generated": "Yorfor"
+    "generated": "Karmicphylactery"
   },
   {
     "original": "An Unexpected Journey",
-    "generated": "Yarag"
+    "generated": "Igkazar"
   },
   {
     "original": "Undying Lands",
-    "generated": "Ivanward"
+    "generated": "Dalenern"
   },
   {
     "original": "Belladonna",
-    "generated": "Taath"
+    "generated": "Tarin"
   },
   {
     "original": "Glóin",
-    "generated": "Umbralorb"
+    "generated": "Haori"
   },
   {
     "original": "Trolls' lair",
-    "generated": "Tareth"
+    "generated": "Alranoro"
   },
   {
     "original": "Glamdring",
-    "generated": "Dainaeoro"
+    "generated": "Astralamulet"
   },
   {
     "original": "Orcrist",
-    "generated": "Ignishorn"
+    "generated": "Aldward"
   },
   {
     "original": "Fíli",
-    "generated": "Zarog",
+    "generated": "Yorunhugh",
     "stems": [
       "Fili"
     ]
   },
   {
     "original": "Kíli",
-    "generated": "Novafrost",
+    "generated": "Ealenaro",
     "stems": [
       "Kili"
     ]
   },
   {
     "original": "Iron Hills",
-    "generated": "Brancedrabran"
+    "generated": "Facorori"
   },
   {
     "original": "Dáin",
-    "generated": "Karith"
+    "generated": "Silton"
   },
   {
     "original": "Ironfoot",
-    "generated": "Xenofang"
+    "generated": "Varon"
   },
   {
     "original": "Sackville",
-    "generated": "Nauel"
+    "generated": "Leoshield"
   },
   {
     "original": "Brandybuck",
-    "generated": "Yorknard"
+    "generated": "Alsiluel"
   },
   {
     "original": "precious",
-    "generated": "Glimmerclaw"
+    "generated": "Fauth"
   },
   {
     "original": "Red Book of Westmarch",
-    "generated": "Ignisrage"
+    "generated": "Athwardda"
   },
   {
     "original": "Sting",
-    "generated": "Lostcrown"
+    "generated": "Jadeorb"
   },
   {
     "original": "Grey Havens",
-    "generated": "Rarik"
+    "generated": "Ricdorion"
   },
   {
     "original": "Valinor",
-    "generated": "Chryhorn"
+    "generated": "Qamorarn"
   },
   {
     "original": "White Tower",
-    "generated": "Novatail"
+    "generated": "Ionton"
   },
   {
     "original": "Osgiliath",
-    "generated": "Qaith"
+    "generated": "Harak"
   },
   {
     "original": "Return of the King",
-    "generated": "Karmicstaff"
+    "generated": "Sapphiremane"
   },
   {
     "original": "Adrahil",
-    "generated": "Varath"
+    "generated": "Warin"
   },
   {
     "original": "Finduilas",
-    "generated": "Orndabran"
+    "generated": "Dorvillemorulf"
   },
   {
     "original": "Istar",
-    "generated": "Spectralcore"
+    "generated": "Yorkjaukstone"
   },
   {
     "original": "Imladris",
-    "generated": "Primalcore"
+    "generated": "Forgottentome"
   },
   {
     "original": "Halfling",
-    "generated": "Quinnville"
-  },
-  {
-    "original": "Tharbad",
-    "generated": "Glimmerwing"
-  },
-  {
-    "original": "Great Horn",
-    "generated": "Haroth"
-  },
-  {
-    "original": "Drogo",
-    "generated": "Qayoruel"
-  },
-  {
-    "original": "Southrons",
     "generated": "Gregshield"
   },
   {
+    "original": "Tharbad",
+    "generated": "Sapphirefang"
+  },
+  {
+    "original": "Great Horn",
+    "generated": "Hairn"
+  },
+  {
+    "original": "Drogo",
+    "generated": "Mysticorb"
+  },
+  {
+    "original": "Southrons",
+    "generated": "Etherealblade"
+  },
+  {
     "original": "Henneth Annûn",
-    "generated": "Waath"
+    "generated": "Jaeth"
   },
   {
     "original": "Anor",
-    "generated": "Buran"
+    "generated": "Gorgreglorero"
   },
   {
     "original": "Noldorin",
-    "generated": "Xenofrost"
+    "generated": "Markward"
   },
   {
     "original": "Elboron",
-    "generated": "Titanseal"
+    "generated": "Noblestaff"
   },
   {
     "original": "Emyn Arnen",
-    "generated": "Vareg"
+    "generated": "Topazdrake"
   },
   {
     "original": "Belecthor",
-    "generated": "Dorwarnor"
+    "generated": "Mysticshield"
   },
   {
     "original": "Beregond",
-    "generated": "Horernog"
+    "generated": "Taern"
   },
   {
     "original": "Cirith Ungol",
-    "generated": "Novarage"
+    "generated": "Luminrage"
   },
   {
     "original": "Forbidden Pool",
-    "generated": "Uaagfarig"
+    "generated": "Sarith"
   },
   {
     "original": "Black Wing",
-    "generated": "Gahorirn"
+    "generated": "Yareth"
   },
   {
     "original": "Shelob",
-    "generated": "Harin"
+    "generated": "Ivanwin"
   },
   {
     "original": "Underhill",
-    "generated": "Infernalseal"
+    "generated": "Rubyscale"
   },
   {
     "original": "Asfaloth",
-    "generated": "Umberstorm"
+    "generated": "Glimmerstorm"
   },
   {
     "original": "Elbereth",
-    "generated": "Mauntarven"
+    "generated": "Saith"
   },
   {
     "original": "Gilthoniel",
-    "generated": "Celestialcore"
+    "generated": "Warag"
   },
   {
     "original": "Valar",
-    "generated": "Emberbreath"
+    "generated": "Divinekey"
   },
   {
     "original": "Black Rider",
-    "generated": "Ulfmond"
+    "generated": "Divinestaff"
   },
   {
     "original": "Finrod",
-    "generated": "Wauro"
+    "generated": "Vividwing"
   },
   {
     "original": "Emyn Muil",
-    "generated": "Rarak"
+    "generated": "Edna"
   },
   {
     "original": "Bamfurlong",
-    "generated": "Ricith"
+    "generated": "Yorkshield"
   },
   {
     "original": "Eregion",
-    "generated": "Seannard"
+    "generated": "Leofred"
   },
   {
     "original": "Gondorian",
-    "generated": "Dagheart"
+    "generated": "Othuroqaced"
   },
   {
     "original": "Cormallen",
-    "generated": "Maern"
+    "generated": "Lakorori"
   },
   {
     "original": "Sharkey",
-    "generated": "Yarog"
+    "generated": "Maron"
   },
   {
     "original": "The Dead Marsh",
-    "generated": "Hughshield"
+    "generated": "Rarra"
   },
   {
     "original": "Meriadoc",
-    "generated": "Vareth",
+    "generated": "Rubygrace",
     "stems": [
       "Merry"
     ]
   },
   {
     "original": "Brandy Hal",
-    "generated": "Ignistail"
+    "generated": "Infernaltome"
   },
   {
     "original": "Buckland",
-    "generated": "Obsidiancore"
+    "generated": "Farak"
   },
   {
     "original": "Farmer Maggot",
-    "generated": "Onyxclaw"
+    "generated": "Edshield"
   },
   {
     "original": "Brandywine",
-    "generated": "Daori"
+    "generated": "Parun"
   },
   {
     "original": "Crickhollow",
-    "generated": "Urnsilielzane"
+    "generated": "Duron"
   },
   {
     "original": "Bucklebury Ferry",
-    "generated": "Cedshield"
+    "generated": "Owenshield"
   },
   {
     "original": "Orodruin",
-    "generated": "Faharric"
+    "generated": "Zaneric"
   },
   {
     "original": "Landroval",
-    "generated": "Narath"
+    "generated": "Edmond"
   },
   {
     "original": "Gwaihir",
-    "generated": "Ivanjackca"
+    "generated": "Waforuth"
   },
   {
     "original": "Meneldor",
-    "generated": "Kaelfield"
+    "generated": "Rexnard"
   },
   {
     "original": "Bywater",
-    "generated": "Quinnfred"
+    "generated": "Umbergrace"
   },
   {
     "original": "Ruffians",
-    "generated": "Xarik"
+    "generated": "Paulfred"
   },
   {
     "original": "Rosie",
-    "generated": "Garuk"
+    "generated": "Rajoruel"
   },
   {
     "original": "Cotton",
-    "generated": "Markhard"
+    "generated": "Aldton"
   },
   {
     "original": "Will Whitfoot",
-    "generated": "Sapphirefang"
+    "generated": "Xenofang"
   },
   {
     "original": "Elanor",
-    "generated": "Quartzbreath"
+    "generated": "Zaraelxa"
   },
   {
     "original": "There and Back Again",
-    "generated": "Ivanton"
+    "generated": "Onyxgrace"
   },
   {
     "original": "Tol",
-    "generated": "Garin"
+    "generated": "Forgottentome"
   },
   {
     "original": "Eressëa",
-    "generated": "Ernvenwastone"
+    "generated": "Winmasar"
   },
   {
     "original": "Arda",
-    "generated": "Harok"
+    "generated": "Xamoreth"
   },
   {
     "original": "Watcher",
-    "generated": "Aedagea",
+    "generated": "Varuk",
     "stems": [
       "Two Watchers",
       "Watchers"
@@ -1192,189 +1192,189 @@
   },
   {
     "original": "Ñoldor",
-    "generated": "Forgottenstaff"
+    "generated": "Celestialamulet"
   },
   {
     "original": "Aman",
-    "generated": "Quantumcrown"
+    "generated": "Xanblade"
   },
   {
     "original": "Eldamar",
-    "generated": "Leobert"
+    "generated": "Haarn"
   },
   {
     "original": "First Age",
-    "generated": "Willbert"
+    "generated": "Astralcrown"
   },
   {
     "original": "War of Wrath",
-    "generated": "Infernalshield"
+    "generated": "Nobleorb"
   },
   {
     "original": "Dagor Bragollach",
-    "generated": "Quantumcrown"
+    "generated": "Yaranari"
   },
   {
     "original": "jewel",
-    "generated": "Markson",
+    "generated": "Owenornowenyork",
     "stems": [
       "Great Jewels"
     ]
   },
   {
     "original": "Fëanor",
-    "generated": "Frediala"
+    "generated": "Vividhorn"
   },
   {
     "original": "Celeborn",
-    "generated": "Radiantblade"
+    "generated": "Gareg"
   },
   {
     "original": "Lórinand",
-    "generated": "Fanorath"
+    "generated": "Qahorero"
   },
   {
     "original": "Nandorin",
-    "generated": "Haiel"
+    "generated": "Xenorage"
   },
   {
     "original": "Eriador",
-    "generated": "Noblemirror"
+    "generated": "Zalorael"
   },
   {
     "original": "Alqualondë",
-    "generated": "Etherealorb"
+    "generated": "Uthbranraruro"
   },
   {
     "original": "Celebrían",
-    "generated": "Wispfire"
+    "generated": "Ralorael"
   },
   {
     "original": "Elven-cloaks",
-    "generated": "Vividhorn"
+    "generated": "Iaari"
   },
   {
     "original": "Gil-Orestel",
-    "generated": "Nauel"
+    "generated": "Primalamulet"
   },
   {
     "original": "Galadhon",
-    "generated": "Mysticamulet"
+    "generated": "Celestialcore"
   },
   {
     "original": "Second Age",
-    "generated": "Ornven"
+    "generated": "Ekfred"
   },
   {
     "original": "Finarfin",
-    "generated": "Wispstorm"
+    "generated": "Yaarn"
   },
   {
     "original": "Eärwen",
-    "generated": "Yorkheart"
+    "generated": "Titanring"
   },
   {
     "original": "Angrod",
-    "generated": "Nedheart"
+    "generated": "Villened"
   },
   {
     "original": "Beleriand",
-    "generated": "Edpa"
+    "generated": "Topazdrake"
   },
   {
     "original": "Nargothrond",
-    "generated": "Nareg"
+    "generated": "Karoth"
   },
   {
     "original": "Treebeard",
-    "generated": "Sapphirescale"
+    "generated": "Baron"
   },
   {
     "original": "Gil-galad",
-    "generated": "Arobladeath"
+    "generated": "Varuk"
   },
   {
     "original": "Eönwë",
-    "generated": "Tarin"
+    "generated": "Primaltome"
   },
   {
     "original": "Melian",
-    "generated": "Ivanville"
+    "generated": "Cedfred"
   },
   {
     "original": "Aegnor",
-    "generated": "Zauth"
+    "generated": "Xaran"
   },
   {
     "original": "Manwë",
-    "generated": "Jorpa"
+    "generated": "Umbralamulet"
   },
   {
     "original": "Lindon",
-    "generated": "Vividhorn"
+    "generated": "Topazfrost"
   },
   {
     "original": "Laegil",
-    "generated": "Pyretail"
+    "generated": "Taren"
   },
   {
     "original": "Guldur",
-    "generated": "Faruk",
+    "generated": "Maarn",
     "stems": [
       "Dol Guldur"
     ]
   },
   {
     "original": "Galadhrim",
-    "generated": "Novastorm"
+    "generated": "Karmicblade"
   },
   {
     "original": "Nenya",
-    "generated": "Maran"
+    "generated": "Paulblade"
   },
   {
     "original": "Uttermost West",
-    "generated": "Alwynuro"
+    "generated": "Doroth"
   },
   {
     "original": "Artanis",
-    "generated": "Noblescroll"
+    "generated": "Ramororn"
   },
   {
     "original": "Doriath",
-    "generated": "Bladefredakxar"
+    "generated": "Iacorirn"
   },
   {
     "original": "Thingol",
-    "generated": "Ielurnwillith"
+    "generated": "Talorzazane"
   },
   {
     "original": "Finwë",
-    "generated": "Ulfurnnar"
+    "generated": "Xenofang"
   },
   {
     "original": "Silmarils",
-    "generated": "Zarok"
+    "generated": "Aesonsil"
   },
   {
     "original": "Doom of Mandos",
-    "generated": "Uawyniel"
+    "generated": "Topazhorn"
   },
   {
     "original": "Nerwen",
-    "generated": "Daiel"
+    "generated": "Jaaro"
   },
   {
     "original": "Falmari",
-    "generated": "Hiddentome"
+    "generated": "Ignisclaw"
   },
   {
     "original": "Amazon",
-    "generated": "Varok"
+    "generated": "Marith"
   },
   {
     "original": "Trees",
-    "generated": "Divinering",
+    "generated": "Karmicmirror",
     "stems": [
       "Three Trees",
       "Two Trees"
@@ -1382,435 +1382,435 @@
   },
   {
     "original": "Menegroth",
-    "generated": "Baran"
+    "generated": "Pyrewing"
   },
   {
     "original": "King Elu",
-    "generated": "Vividhorn"
+    "generated": "Quinnric"
   },
   {
     "original": "Narog",
-    "generated": "Wauel"
+    "generated": "Forgottentome"
   },
   {
     "original": "Telerian",
-    "generated": "Arosarrarvar"
+    "generated": "Zaneward"
   },
   {
     "original": "Losgar",
-    "generated": "Karyaleobert"
+    "generated": "Othka"
   },
   {
     "original": "Yavanna",
-    "generated": "Yaero"
+    "generated": "Glimmermane"
   },
   {
     "original": "Celebrimbor",
-    "generated": "Luminfire"
+    "generated": "Gaath"
   },
   {
     "original": "Ost-in-Edhil",
-    "generated": "Xaoro"
+    "generated": "Akfredyork"
   },
   {
     "original": "Aldarion",
-    "generated": "Rexnard"
+    "generated": "Burath"
   },
   {
     "original": "Elven-smith",
-    "generated": "Novasight"
+    "generated": "Obsidianmirror"
   },
   {
     "original": "Gwaith-i-Mírdain",
-    "generated": "Eaith"
+    "generated": "Dagbert"
   },
   {
     "original": "Ulmo",
-    "generated": "Burun"
+    "generated": "Glimmerwing"
   },
   {
     "original": "Belfalas",
-    "generated": "Astralorb"
+    "generated": "Karak"
   },
   {
     "original": "Rhovanion",
-    "generated": "Jackbert"
+    "generated": "Topazclaw"
   },
   {
     "original": "Círdan",
-    "generated": "Quinnnard"
+    "generated": "Radiantamulet"
   },
   {
     "original": "Silvan",
-    "generated": "Rubydrake",
+    "generated": "Gamorion",
     "stems": [
       "Silvan Elves"
     ]
   },
   {
     "original": "Eorl",
-    "generated": "Barog"
+    "generated": "Forgottenhourglass"
   },
   {
     "original": "Battle of the Field of Celebrant",
-    "generated": "Xanhard"
+    "generated": "Faith"
   },
   {
     "original": "lembas",
-    "generated": "Radiantkey"
+    "generated": "Divinecrown"
   },
   {
     "original": "Mallorn",
-    "generated": "Karin"
+    "generated": "Xanfa"
   },
   {
     "original": "Celebdil",
-    "generated": "Astralphylactery"
+    "generated": "Macoruro"
   },
   {
     "original": "Barad-dûr",
-    "generated": "Rubystorm"
+    "generated": "Yorkville"
   },
   {
     "original": "Envinyanta",
-    "generated": "Hughnard"
+    "generated": "Orneth"
   },
   {
     "original": "Mithlond",
-    "generated": "Onyxscale"
+    "generated": "Lumingrace"
   },
   {
     "original": "Olórin",
-    "generated": "Yarath",
+    "generated": "Wauel",
     "stems": [
       "Olorion"
     ]
   },
   {
     "original": "Maiar",
-    "generated": "Parog"
+    "generated": "Mysticmirror"
   },
   {
     "original": "Ainur",
-    "generated": "Faorn"
+    "generated": "Durek"
   },
   {
     "original": "Varda",
-    "generated": "Tauel"
+    "generated": "Ivanbert"
   },
   {
     "original": "Irmo",
-    "generated": "Aelharmondbar"
+    "generated": "Obsidianseal"
   },
   {
     "original": "Mithrandir",
-    "generated": "Ivanfred"
+    "generated": "Leofred"
   },
   {
     "original": "Tharkûn",
-    "generated": "Quinnbranzane"
+    "generated": "Alleneth"
   },
   {
     "original": "Holman",
-    "generated": "Yorkmond"
+    "generated": "Embertail"
   },
   {
     "original": "Troll",
-    "generated": "Chryfang"
+    "generated": "Harug"
   },
   {
     "original": "Goblin",
-    "generated": "Seanfred"
+    "generated": "Jackward"
   },
   {
     "original": "Nienna",
-    "generated": "Savenari"
+    "generated": "Farag"
   },
   {
     "original": "Necromancer",
-    "generated": "Xanwood"
+    "generated": "Ulfton"
   },
   {
     "original": "Incánus",
-    "generated": "Zaborva"
+    "generated": "Tarek"
   },
   {
     "original": "Dvergatal",
-    "generated": "Umberclaw"
+    "generated": "Hiddenshield"
   },
   {
     "original": "Dale",
-    "generated": "Aroblade"
+    "generated": "Naxeleri"
   },
   {
     "original": "Ered Luin",
-    "generated": "Karuk"
+    "generated": "Hiddenmirror"
   },
   {
     "original": "White Rider",
-    "generated": "Ulfward"
+    "generated": "Forgottenorb"
   },
   {
     "original": "Two Towers",
-    "generated": "Onyxtail"
+    "generated": "Vairn"
   },
   {
     "original": "Black Speech",
-    "generated": "Wynjorunoth"
+    "generated": "Gregforblade"
   },
   {
     "original": "Radagast",
-    "generated": "Jaari"
+    "generated": "Sarun"
   },
   {
     "original": "Orthanc",
-    "generated": "Tarkorqanard"
+    "generated": "Ueldarbororo"
   },
   {
     "original": "Shadowfax",
-    "generated": "Umbralcore"
+    "generated": "Celestialorb"
   },
   {
     "original": "Redhorn Pass",
-    "generated": "Cedblade"
+    "generated": "Eaxelorn"
   },
   {
     "original": "You cannot pass",
-    "generated": "Saeri"
+    "generated": "Raroth"
   },
   {
     "original": "I am a servant of the Secret Fire",
-    "generated": "Tarun"
+    "generated": "Celestialtome"
   },
   {
     "original": "Udûn",
-    "generated": "Taael"
+    "generated": "Obsidianamulet"
   },
   {
     "original": "Morgoth",
-    "generated": "Dalorulf"
+    "generated": "Yarsasonton"
   },
   {
     "original": "Zirakzigil",
-    "generated": "Rarig"
+    "generated": "Fredikokmark"
   },
   {
     "original": "Eru",
-    "generated": "Celestialring"
+    "generated": "Vanorion"
   },
   {
     "original": "Caras",
-    "generated": "Janaothfred"
+    "generated": "Luminbreath"
   },
   {
     "original": "Three Hunters",
-    "generated": "Wareth"
+    "generated": "Rexfred"
   },
   {
     "original": "Westfold",
-    "generated": "Willheart"
+    "generated": "Vividrage"
   },
   {
     "original": "Huorns",
-    "generated": "Rarag"
+    "generated": "Umbralamulet"
   },
   {
     "original": "Seeing Stone",
-    "generated": "Iaranuth"
+    "generated": "Vividfire"
   },
   {
     "original": "Grond",
-    "generated": "Spectralshield"
+    "generated": "Emberfrost"
   },
   {
     "original": "Barrow-blade",
-    "generated": "Daorn"
+    "generated": "Yorkward"
   },
   {
     "original": "Towers of the Teeth",
-    "generated": "Zarga"
+    "generated": "Maaro"
   },
   {
     "original": "Mindolluin",
-    "generated": "Naruk"
+    "generated": "Karath"
   },
   {
     "original": "Narya",
-    "generated": "Sarak"
+    "generated": "Tomfred"
   },
   {
     "original": "Sméagol",
-    "generated": "Voidshield",
+    "generated": "Infernalblade",
     "stems": [
       "smay-ah-gol"
     ]
   },
   {
     "original": "Trahald",
-    "generated": "Faael"
+    "generated": "Agquinn"
   },
   {
     "original": "Stoor",
-    "generated": "Fredric"
+    "generated": "Gaithulfiel"
   },
   {
     "original": "Déagol",
-    "generated": "Aleth"
+    "generated": "Emberrage"
   },
   {
     "original": "Gladden Fields",
-    "generated": "Quantumscroll"
+    "generated": "Bureg"
   },
   {
     "original": "riddle-game",
-    "generated": "Vayoruro"
+    "generated": "Ignismane"
   },
   {
     "original": "What have I got in my pocket",
-    "generated": "Voidphylactery"
+    "generated": "Iaael"
   },
   {
     "original": "Nen Hithoel",
-    "generated": "Quartzhorn"
+    "generated": "Ivanblade"
   },
   {
     "original": "Ephel Dúath",
-    "generated": "Zariaathbert"
+    "generated": "Haraelae"
   },
   {
     "original": "Ungoliant",
-    "generated": "Ranharduelwood"
+    "generated": "Jaiel"
   },
   {
     "original": "Torech Ungol",
-    "generated": "Nafredxala"
+    "generated": "Ignishorn"
   },
   {
     "original": "Gorbag",
-    "generated": "Edvenjor"
+    "generated": "Mondranurnbran"
   },
   {
     "original": "Shagrat",
-    "generated": "Laathern"
+    "generated": "Barog"
   },
   {
     "original": "Nine Riders",
-    "generated": "Gregville"
+    "generated": "Paulson"
   },
   {
     "original": "Nine Walkers",
-    "generated": "Etherealcrown"
+    "generated": "Voidamulet"
   },
   {
     "original": "Arod",
-    "generated": "Tacoruth"
+    "generated": "Saori"
   },
   {
     "original": "Glittering Caves",
-    "generated": "Ealenath"
+    "generated": "Vividwing"
   },
   {
     "original": "Bill the Pony",
-    "generated": "Waron"
+    "generated": "Mysticstaff"
   },
   {
     "original": "J.R.R.",
-    "generated": "Darug"
+    "generated": "Aldfield"
   },
   {
     "original": "Gondolin",
-    "generated": "Sapphirebreath"
+    "generated": "Infernalphylactery"
   },
   {
     "original": "Thrór",
-    "generated": "Zanemond"
+    "generated": "Quinnfred"
   },
   {
     "original": "Allen & Unwin",
-    "generated": "Zareg"
+    "generated": "Novawing"
   },
   {
     "original": "Nori",
-    "generated": "Gregstone"
+    "generated": "Iauro"
   },
   {
     "original": "Dori",
-    "generated": "Sapphiremane"
+    "generated": "Aldwin"
   },
   {
     "original": "Bifur",
-    "generated": "Ivanbert"
+    "generated": "Ignisbreath"
   },
   {
     "original": "Bofur",
-    "generated": "Voidhourglass"
+    "generated": "Primalmirror"
   },
   {
     "original": "Bombur",
-    "generated": "Naorn"
+    "generated": "Norvar"
   },
   {
     "original": "Arkenstone",
-    "generated": "Norathjor"
+    "generated": "Gavillenaari"
   },
   {
     "original": "Baran",
-    "generated": "Garen"
+    "generated": "Urnuthalen"
   },
   {
     "original": "Ghân-buri-Ghân",
-    "generated": "Xayoraro"
+    "generated": "Lostblade"
   },
   {
     "original": "Rhûn",
-    "generated": "Quartzclaw"
+    "generated": "Caorn"
   },
   {
     "original": "Drúadan",
-    "generated": "Yorkfield"
+    "generated": "Vividtail"
   },
   {
     "original": "Causeway Forts",
-    "generated": "Hataruk"
+    "generated": "Hiddenseal"
   },
   {
     "original": "Houses of Healing",
-    "generated": "Vividbreath"
+    "generated": "Iadorion"
   },
   {
     "original": "Erkenbrand",
-    "generated": "Unnaald"
+    "generated": "Villevaulfjor"
   },
   {
     "original": "Uglúk",
-    "generated": "Pyrestorm"
+    "generated": "Markfred"
   },
   {
     "original": "Grishnákh",
-    "generated": "Markmond"
+    "generated": "Cadoreth"
   },
   {
     "original": "Quickbeam",
-    "generated": "Xenohorn"
+    "generated": "Viknard"
   },
   {
     "original": "Oliphaunt",
-    "generated": "Paanlenra"
+    "generated": "Hughson"
   },
   {
     "original": "Dead Marshes",
-    "generated": "Narug"
+    "generated": "Aelorarn"
   },
   {
     "original": "Fingolfin",
-    "generated": "Novamane"
+    "generated": "Umbergrace"
   },
   {
     "original": "Primula",
-    "generated": "Nedwin"
+    "generated": "Rarun"
   },
   {
     "original": "Helcaraxë",
-    "generated": "Pyregrace"
+    "generated": "Waarn"
   }
 ]

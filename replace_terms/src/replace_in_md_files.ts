@@ -44,9 +44,8 @@ export async function replaceInMdFiles(
 
         if(term.stems) {
           for (const stem of term.stems) {
-            const stemToReplace = new RegExp(addUnderscoreToSecondPlace(stem), 'gi'); 
             acc = acc.replaceAll(
-              stemToReplace,
+              new RegExp(addUnderscoreToSecondPlace(stem), 'gi'),
               term.generated
             );
           }
@@ -57,6 +56,12 @@ export async function replaceInMdFiles(
         //   && !lostOriginalsFileContent.some(t => t.word.toLowerCase() === term.original.toLowerCase())) {
         //     lostOriginalsFileContent.push({ word: term.original, file: filePath })
         // }
+
+
+            acc = acc.replaceAll(
+              new RegExp(term.original, 'g'),
+              term.generated
+            );
 
         return acc.replaceAll(
           termToReplace,

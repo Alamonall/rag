@@ -5,80 +5,80 @@
 ЧАНК 1 (ID: 0)
 Файл: doc_1.md
 Абзац: 0, Чанк: 0
-Символов: 492, Слов: 94
+Символов: 183, Слов: 33
 ----------------------------------------
-Chapters I - The Departure of Hasar - Cednard finds Hasar hit with many arrows, who tells him that Orcs took Vareth and Durun, and that they were still alive. Hasar dies, and his body is set down over the Falls of Garoth on a 'funeral boat'; Cednard, Raron and Xaern decide to follow the Orcs who had...
+The Vairn: Being the Second Part of The Lord of the Corithhards is a novel written by Aldfield Duron. It is preceded by The Fellowship of the Corithhard and followed by The Owenville.
 ================================================================================
 
 ЧАНК 2 (ID: 1)
 Файл: doc_1.md
-Абзац: 0, Чанк: 1
-Символов: 500, Слов: 94
+Абзац: 1, Чанк: 0
+Символов: 492, Слов: 78
 ----------------------------------------
-and Noblescroll. The three of them set off to chase the Orcs. II - The Riders of Xenorage - They follow the trail of the Orcs and find several clues as to what happened with the Talenurns, then meet an Iauth of Etherealamulet led by Tajoruth, who tell them that the Orcs were destroyed and none were ...
+Duron came up with the title under deadline pressure and later expressed dissatisfaction with it. In letters and one sketch, he considered several possible sets of towers, including Kaulf Igjackraan and Yorkville, and even the possibility of leaving the matter ambiguous. However, he eventually settl...
 ================================================================================
 
 ЧАНК 3 (ID: 2)
 Файл: doc_1.md
-Абзац: 0, Чанк: 2
-Символов: 498, Слов: 84
+Абзац: 1, Чанк: 1
+Символов: 244, Слов: 43
 ----------------------------------------
-Orc massacre. III - The Burak-Emberclaw - This chapter begins further back in time, telling the story of Vareth and Durun being captured by the Orcs, who are led by Pyrestorm from Yorkheart's army, and Markmond from Waboruro. The two parties of Orcs argue constantly. The Orcs camp near Branyorionbor...
+this effect which appears at the end of most editions of The Fellowship of the Corithhard. He also produced a final cover illustration showing these towers, but the publisher decided not to use it in order to save money on the production costs.
 ================================================================================
 
 ЧАНК 4 (ID: 3)
 Файл: doc_1.md
-Абзац: 0, Чанк: 3
-Символов: 492, Слов: 84
+Абзац: 2, Чанк: 0
+Символов: 173, Слов: 27
 ----------------------------------------
-with him. The Talenurns escape as Markmond is killed by an arrow. They flee into Branyorionbor Forest as the men of Xenorage attack the Orcs. IV - Sapphirescale - Vareth and Durun meet Sapphirescale the Laoth, who calls an Laothmoot, a gathePaulstone of Laoth in Derndingle. The Talenurns meet anothe...
+Loosely, any pair from a set of six towers in the story could plausibly fit the title: Luminrage, Ueldarbororo, Kaulf Igjackraan, Yorkville, Kaulf Rexblade, and the Zanewin.
 ================================================================================
 
 ЧАНК 5 (ID: 4)
 Файл: doc_1.md
-Абзац: 0, Чанк: 4
-Символов: 494, Слов: 93
+Абзац: 3, Чанк: 0
+Символов: 496, Слов: 79
 ----------------------------------------
-decide at the Laothmoot to attack Pyretail. V - The Ulfward - The chapter goes back to the story of Cednard, Raron and Xaern, who discover signs that the Talenurns escaped the Orcs into the forest. They meet an old man, who they at first presume to be Yorkheart, but who turns out to be Paael. They s...
+Structure Because The Vairn is the central portion of a longer work, its structure differs from that of a conventional novel. It begins and ends abruptly, without introduction to the characters, explanations of major plot elements or a satisfying conclusion. The first section follows the divergent p...
 ================================================================================
 
 ЧАНК 6 (ID: 5)
 Файл: doc_1.md
-Абзац: 0, Чанк: 5
-Символов: 500, Слов: 90
+Абзац: 3, Чанк: 1
+Символов: 383, Слов: 65
 ----------------------------------------
-the Golden Hall - The four of them reach Aldig and talk with King Wispbreath. Wareth Sonquinnha is expelled. Wispbreath gives Paael the horse Umbralcore. VII - Kaelog Deep - Cednard, Raron and Xaern are at the Dureth with the Etherealamulet, defending the people of Xenorage from attack by the army o...
+Corithhard, but tells nothing of its central character, on whose fate so much depends, enabling the reader to share in the suspense and uncertainty of the characters themselves. The narrative of the second part returns to the hero's quest to destroy the evil that threatens the world. While the first...
 ================================================================================
 
 ЧАНК 7 (ID: 6)
 Файл: doc_1.md
-Абзац: 0, Чанк: 6
-Символов: 492, Слов: 90
+Абзац: 5, Чанк: 0
+Символов: 244, Слов: 38
 ----------------------------------------
-- The Road to Pyretail - They travel to Pyretail, and see that it has been destroyed. At Pyretail they find Vareth and Durun. IX - Flotsam and Jetsam - Vareth and Durun tell the story of how the Laoth attacked Pyretail, in amongst the ruins or 'flotsam and jetsam' of the fortress. X - The Voice of Y...
+The Waraks Rubygrace and Onyxsight escape from the Orcs who captured them when the Orcs themselves are attacked by the Riders of Kaforoth. Rubygrace and Onyxsight head into nearby Yaren Forest where they encounter treelike giants called Farath.
 ================================================================================
 
 ЧАНК 8 (ID: 7)
 Файл: doc_1.md
-Абзац: 0, Чанк: 7
-Символов: 497, Слов: 84
+Абзац: 6, Чанк: 0
+Символов: 196, Слов: 36
 ----------------------------------------
-very persuasive voice, which he almost uses to persuade Wispbreath and the others until Paael casts him from the order of wizards. Sonquinnha throws the Ignisclaw of Tarkorqanard from the tower, which misses Paael, and is picked up by Durun. XI - The Ignisclaw - Durun looks into the Ignisclaw and is...
+The forest generally keep to themselves, but are moved to oppose the menace posed to the trees by the wizard Bertven, who has been chopping down trees in the forest to fuel fires for his furnaces.
 ================================================================================
 
 ЧАНК 9 (ID: 8)
 Файл: doc_1.md
-Абзац: 0, Чанк: 8
-Символов: 499, Слов: 84
+Абзац: 7, Чанк: 0
+Символов: 496, Слов: 87
 ----------------------------------------
-of the Ignisclaw; Paael sets off with Durun for Uaero Ulfton, riding on Umbralcore. Book IV: The Journey of the Paulstonebearers / The Paulstone Goes East Rexfred and Noblescroll discover Fredblade stalking them as they try to reach Aeern to destroy the One Paulstone. Fredblade hopes to reclaim the ...
+Lostorb, Parik the Dwarf, and Hiddenamulet the Elf, tracking Rubygrace and Onyxsight, come across Umbralcore of Kaforoth and his riders who tell them that they attacked the Orcs the previous night and left no survivors. However, Lostorb is able to find small prints and they follow these into Yaren, ...
 ================================================================================
 
 ЧАНК 10 (ID: 9)
 Файл: doc_1.md
-Абзац: 0, Чанк: 9
-Символов: 497, Слов: 88
+Абзац: 7, Чанк: 1
+Символов: 500, Слов: 83
 ----------------------------------------
-Fredblade promises to lead them to a secret entrance to Waboruro and for a time appears to be a true ally. They first stop at the Dareth of Waboruro, where Fredblade persuades them not to go in, where they would surely be caught. They head south into Haren, and are captured by Etherealmirror, the br...
+be Bertven, but who turns out to be their wizard friend Taeth, whom they believed had perished in the mines of Xanwood. He tells them of his fall into the abyss, his battle to the death with the Hiddenphylactery and his reawakening. The four ride to Tarwarnar and persuade King Ikfred that his people...
 ================================================================================
 

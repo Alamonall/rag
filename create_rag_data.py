@@ -6,9 +6,6 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 import warnings
 
-from llama_cpp import Llama
-import requests
-
 from config import *
 
 warnings.filterwarnings('ignore')
@@ -31,56 +28,6 @@ DEFAULT_CONFIG = {
 # ============================================================================
 # УТИЛИТЫ ДЛЯ РАБОТЫ С ФАЙЛАМИ
 # ============================================================================
-
-def download_model(model_url: str, model_path: str = None):
-    """Скачивает модель по ссылке"""
-    if model_path is None:
-        model_path = Path(model_url.split("/")[-1])
-    
-    if not model_path.exists():
-        print(f"Скачивание модели из {model_url}...")
-        response = requests.get(model_url, stream=True)
-        with open(model_path, 'wb') as f:
-            for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
-        print(f"Модель сохранена в {model_path}")
-    
-    return str(model_path)
-
-
-def ensure_model_exists(model_path: str, model_url: str = None) -> str:
-    """
-    Проверяет наличие модели и загружает если нужно
-    
-    Args:
-        model_path: Локальный путь к модели
-        model_url: URL для скачивания (если None, используется стандартный)
-    
-    Returns:
-        Путь к локальному файлу модели
-    """
-    path = Path(model_path)
-    
-    # Если файл существует
-    if path.exists():
-        # Проверяем размер файла (минимальная проверка)
-        file_size = path.stat().st_size
-        if file_size > 100 * 1024 * 1024:  # Минимум 100MB для модели
-            print(f"Модель найдена: {model_path} ({file_size / 1024 / 1024:.1f} MB)")
-            return model_path
-        else:
-            print(f"Файл слишком маленький ({file_size} байт), перезагружаем...")
-            path.unlink()
-    
-    # Если URL не передан, используем стандартный
-    if model_url is None:
-        model_url = RAG_URL
-    
-    # Создаем директорию если нужно
-    path.parent.mkdir(parents=True, exist_ok=True)
-    
-    # Загружаем модель
-    return download_model(model_url, model_path)
 
 def find_text_files(directory: str) -> List[str]:
     """Найти все текстовые файлы в директории"""

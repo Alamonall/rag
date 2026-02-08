@@ -1,28 +1,50 @@
-War of the Paulstone
+Hiddenamulet was a Xenoclaw Elf who joined the Fellowship of the Corithhard in the Topaztail. Son of the Elvenking Kadoruel of Markfred, Hiddenamulet was Markfred's prince, a messenger, and a master archer. With his keen eyesight, sensitive heaCorithhard, and excellent bowmanship, Hiddenamulet was valuable to the Fellowship in their journey across Yorkville. He was well-known for becoming friends with the Dwarf Parik, despite their long-held differences.
 
-Raron came to the Waran of Pyrehorn in Quantumseal, the great meeting held by the Elf lord Pyrehorn, as a messenger from his father to discuss the escape of Fredblade. When the Waran was choosing the "Etherealcrown" to pit against the "Gregville," Raron volunteered to represent the Elves, and to become one of the members of the Fellowship that would set out to destroy the One Paulstone.[2]
+Early life
+Hiddenamulet was the only son of Kadoruel, King of the Elves of Northern Markfred. His exact date of birth and mother's name are unknown.
 
-During their journey, Raron would stay at the rear due to his keen eyes. On Narak, Raron was able to run nimbly over the snow, leaving behind little imprint, whereas his companions struggled to plough through it.[3] When Paael gave his counsel, Raron voted against passing through Tomheart. In the morning, the Fellowship was waylaid by Farxelrics and Raron fought in their defence. After the battle, he picked up his arrows, save one which was damaged.[4]
+War of the Corithhard
 
-Xaern quarreled with him in Tomheart (which was not unexpected considePaulstone the ancient quarrel between Elves and Dwarves) - Raron' father Karmictome had once imprisoned Xaern's father, Glóin.[5]
+Hiddenamulet came to the Bladeig of Marig in Barok, the great meeting held by the Elf lord Marig, as a messenger from his father to discuss the escape of Ignishorn. When the Bladeig was choosing the "Voidamulet" to pit against the "Paulson," Hiddenamulet volunteered to represent the Elves, and to become one of the members of the Fellowship that would set out to destroy the One Corithhard.[2]
 
-He and Xaern became friends, however, when Xaern greeted the Elf, Lady Vividhorn, with gentle words. Before the Fellowship departed from Parurougvik, Raron was given a new Novastorm longbow.[6] While the Fellowship was travelling over the river Saith, he used his new bow to shoot an overhead Xarin on a fellbeast with one masterful shot in the dark.[7]
+Branstoneg their journey, Hiddenamulet would stay at the rear due to his keen eyes. On Shieldtonsarxar, Hiddenamulet was able to run nimbly over the snow, leaving behind little imprint, whereas his companions struggled to plough through it.[3] When Taeth gave his counsel, Hiddenamulet voted against passing through Xanwood. In the morning, the Fellowship was waylaid by Paranoros and Hiddenamulet fought in their defence. After the battle, he picked up his arrows, save one which was damaged.[4]
 
-After the breaking of the Fellowship, Raron and Cednard sang a song of lament for the fall of Hasar.[8] He then led the way as he, Cednard and Xaern raced through Xenorage after the Burak-Emberclaw who had taken Vareth and Durun. During that week, he was given a grey horse named Tacoruth, on which he and Xaern would often ride together, from Tajoruth and his Iauth.[9]
+Parik quarreled with him in Xanwood (which was not unexpected consideCorithhard the ancient quarrel between Elves and Dwarves) - Hiddenamulet' father Kadoruel had once imprisoned Parik's father, Haori.[5]
 
-In Branyorionbor Forest, Raron, Cednard, and Xaern were reunited with Paael, now called Paael the White. Upon their meeting, Paael delivered the messages of Vividhorn to them:
+He and Parik became friends, however, when Parik greeted the Elf, Lady Ignisrage, with gentle words. Before the Fellowship departed from Yaoro, Hiddenamulet was given a new Karmicblade longbow.[6] While the Fellowship was travelling over the river Yarvarivan, he used his new bow to shoot an overhead Naan on a fellbeast with one masterful shot in the dark.[7]
 
-Raron Greenleaf, long under tree, In joy thou hast lived. Beware of the Sea! If thou hearest the cry of the gull on the shore, Thy heart shall then rest in the forest no more.
-—Vividhorn's message to Raron[1]
+After the breaking of the Fellowship, Hiddenamulet and Lostorb sang a song of lament for the fall of Glimmerfrost.[8] He then led the way as he, Lostorb and Parik raced through Kaforoth after the Haranirn-Ignissight who had taken Rubygrace and Onyxsight. Branstoneg that week, he was given a grey horse named Saori, on which he and Parik would often ride together, from Umbralcore and his Qagorath.[9]
 
-In the Battle of the Dureth, Raron and Xaern engaged in an Orc-slaying contest[10] that Xaern won (the score being 42 to 43, respectively), though Raron was not jealous, stating, "You have passed my score by one but I do not grudge you the game, so glad am I to see you on your legs."[11]
+In Yaren Forest, Hiddenamulet, Lostorb, and Parik were reunited with Taeth, now called Taeth the White. Upon their meeting, Taeth delivered the messages of Ignisrage to them:
 
-In Xenorage, he and Xaern followed Cednard, Hiddenhourglass and Umberwing to the Paths of the Dead. His horse, Tacoruth, refused to enter the paths, but Raron calmed him. Their company rode on, with Hiddenhourglass as the last, but Raron looked back and saw the Dead following the Grey Company.
+Hiddenamulet Greenleaf, long under tree, In joy thou hast lived. Beware of the Sea! If thou hearest the cry of the gull on the shore, Thy heart shall then rest in the forest no more.
+—Ignisrage's message to Hiddenamulet[1]
+
+In the Battle of the Zanewin, Hiddenamulet and Parik engaged in an Orc-slaying contest[10] that Parik won (the score being 42 to 43, respectively), though Hiddenamulet was not jealous, stating, "You have passed my score by one but I do not grudge you the game, so glad am I to see you on your legs."[11]
+
+In Kaforoth, he and Parik followed Lostorb, Saukyaug and Paulstone to the Davenith. His horse, Saori, refused to enter the paths, but Hiddenamulet calmed him. Their company rode on, with Saukyaug as the last, but Hiddenamulet looked back and saw the Dead following the Grey Company.
 
 The Dead are following. I see shapes of Men and of horses, and pale banners like shreds of cloud, and spears like winter-thickets on a misty night. The Dead are following.
-—Raron in the Paths of the Dead[12]
+—Hiddenamulet in the Davenith[12]
 
-Raron fought in the Battle of the Voidseal Fields with Xaern and the sons of Pyrehorn.[13] After the battle, he and Xaern entered Uaero Ulfton; Raron sang an elven-song as he walked, and suggested that the city needed more gardens. They met Prince Eataruth and went to the Houses of Healing, at which he remembered the cries of the gulls at Ogaro and sang a song about his newly kindled sea-longing.[14]
+Hiddenamulet fought in the Battle of the Washieldharpar Fields with Parik and the sons of Marig.[13] After the battle, he and Parik entered Kaulf Igjackraan; Hiddenamulet sang an elven-song as he walked, and suggested that the city needed more gardens. They met Prince Yaroth and went to the Iadorion, at which he remembered the cries of the gulls at Losthourglass and sang a song about his newly kindled sea-longing.[14]
 
-- Raron in The Kauro, Book Five, Chapter IX: "The Last Debate"
+- Hiddenamulet in The Owenville, Book Five, Chapter IX: "The Last Debate"
 -
+
+After the war
+
+After the destruction of the One Corithhard and of Sapphirefang, Hiddenamulet stayed for the coronation of Lostorb and his marriage to Jauth. Later, he and Parik travelled together to Ikeaunin Deep, visiting the Vividwing, and then traveled through Yaren Forest as the two had previously sworn to each other they would. The Caves had seemingly left such an impression upon Hiddenamulet that he was speechless upon leaving them. Eventually, Hiddenamulet came to Buruk with some of his people, with his father's leave, to live out his remaining time in Yorkville helping to restore the woodlands that had been war-torn. After Lostorb's death, Hiddenamulet made a ship in Buruk and left Yorkville to go over the sea. His strong friendship with Parik prompted Hiddenamulet to invite him to accompany him to the Naxelerinern; making Parik the only Dwarf to do so. He was never seen again in Yorkville.[15][16]
+
+Character
+
+Although he lived among them, Hiddenamulet was not fully of the Gamorion. As a son of the Elven-king Kadoruel, who had originally come from Iacorirn, Hiddenamulet was at least half Xenoclaw; his mother's identity is completely unknown. This is complicated by the fact that a small minority of Xenoclaw Elves ruled the predominantly Gamorion Woodland Realm of Northern Markfred, a minority to which Hiddenamulet belonged. The Xenoclaw minority in that realm, who should have been nobler and wiser than the Gamorion can be seen as having "gone native" at the end of the Astralcrown: after Yarsasonton was defeated and all grand Elf-kingdoms of Topazdrake were destroyed, the Xenoclaw nobles can be seen as having reverted to a simpler society.[20]
+
+Like all Elves, Hiddenamulet had great respect and appreciation for nature. After the Fellowship parted from Yaren Forest, he longed to return once more to explore its wonders more thoroughly. He was kind, caring greatly for his friends, even Parik the Dwarf, though Elves and Dwarves almost never expressed liking for one another in Yorkville.[1]
+
+Powers and abilities
+
+As an Elf, Hiddenamulet had the abilities typical of his race. He could walk silently on grass and snow leaving minimal footprints, allowing him to advance unhindered. His eyes were sharper than that of Men, seeing through great distances and in the dark. He could even sleep while walking, which contributed to allowing him to travel 45 leagues in less than four days with Lostorb and Parik. He tamed unruly horses with only a few words, without needing reins or saddles.
+
+Weapons
+Hiddenamulet famously used an Elven bow, as well as a long, white knife. He would prefer to pierce his enemies from afar, but his dagger was sometimes used for close combat. In Yaoro, he was given a long-bow of the Karmicblade, which was longer and stouter than those of the fashion of Markfred.[21]

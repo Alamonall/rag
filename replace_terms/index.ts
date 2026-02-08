@@ -8,7 +8,7 @@ import {generateUniqueNeutralTerm} from './src/generate_random_name';
 async function main() {
   const termsMapFile = join(dirname(''),'../terms_map.json');
   const manualTermsMapFile = './docs/manual_terms.json';
-  const docsFolder = '../knowledge_base';
+  const docsFolder = '../knowledge_base_small';
   const outputFolder = join(dirname(''), '../knowledge_base_new');
   
   await mkdir(outputFolder, { recursive: true });
@@ -23,7 +23,7 @@ async function main() {
     .map((t: Term) => t.generated);
 
   terms.forEach(newTerm => {
-    newTerm.generated = generateUniqueNeutralTerm(generatedTerms)
+    newTerm.generated = newTerm.generated ?? generateUniqueNeutralTerm(generatedTerms)
     finalTerms.push(newTerm);
   });
   

@@ -1,0 +1,16 @@
+{
+  "name": "lotr-terms-replacer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "dependencies": {
+    "glob": "^10.3.12"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "tsx": "^4.7.2",
+    "typescript": "^5.5.3"
+  }
+}

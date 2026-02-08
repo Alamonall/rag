@@ -1,0 +1,1816 @@
+[
+  {
+    "original": "Aragorn",
+    "generated": "Maratorn"
+  },
+  {
+    "original": "Arathorn",
+    "generated": "Garadot"
+  },
+  {
+    "original": "Gilraen",
+    "generated": "Oforon"
+  },
+  {
+    "original": "Strider",
+    "generated": "Somak"
+  },
+  {
+    "original": "Elessar",
+    "generated": "Akaraon"
+  },
+  {
+    "original": "Dúnedain",
+    "generated": "Kotorain",
+    "stems": [
+      "Dunedain"
+    ]
+  },
+  {
+    "original": "Telcontar",
+    "generated": "Dadurn"
+  },
+  {
+    "original": "Gondor",
+    "generated": "Totaron"
+  },
+  {
+    "original": "Arnor",
+    "generated": ""
+  },
+  {
+    "original": "Isildur",
+    "generated": ""
+  },
+  {
+    "original": "Narsil",
+    "generated": ""
+  },
+  {
+    "original": "Andúril",
+    "generated": ""
+  },
+  {
+    "original": "Ring",
+    "generated": ""
+  },
+  {
+    "original": "hobbit",
+    "generated": ""
+  },
+  {
+    "original": "Hornburg",
+    "generated": ""
+  },
+  {
+    "original": "Return of the King",
+    "generated": ""
+  },
+  {
+    "original": "Silmarillion",
+    "generated": ""
+  },
+  {
+    "original": "Third Age",
+    "generated": ""
+  },
+  {
+    "original": "Elros Tar-Minyatur",
+    "generated": ""
+  },
+  {
+    "original": "Andúnië",
+    "generated": ""
+  },
+  {
+    "original": "Elendil",
+    "generated": ""
+  },
+  {
+    "original": "Elrond",
+    "generated": ""
+  },
+  {
+    "original": "Arvedui",
+    "generated": ""
+  },
+  {
+    "original": "Fíriel",
+    "generated": ""
+  },
+  {
+    "original": "Anárion",
+    "generated": ""
+  },
+  {
+    "original": "Rivendell",
+    "generated": ""
+  },
+  {
+    "original": "Estel",
+    "generated": ""
+  },
+  {
+    "original": "Barahir",
+    "generated": ""
+  },
+  {
+    "original": "Annúminas",
+    "generated": ""
+  },
+  {
+    "original": "Arwen",
+    "generated": "Sonar"
+  },
+  {
+    "original": "Lothlórien",
+    "generated": ""
+  },
+  {
+    "original": "Lórien",
+    "generated": ""
+  },
+  {
+    "original": "Galadriel",
+    "generated": ""
+  },
+  {
+    "original": "Angmar",
+    "generated": ""
+  },
+  {
+    "original": "Shire",
+    "generated": ""
+  },
+  {
+    "original": "Thengel",
+    "generated": ""
+  },
+  {
+    "original": "Rohan",
+    "generated": ""
+  },
+  {
+    "original": "Ecthelion",
+    "generated": ""
+  },
+  {
+    "original": "Thorongil",
+    "generated": ""
+  },
+  {
+    "original": "Eagle of the Star",
+    "generated": ""
+  },
+  {
+    "original": "Umbar",
+    "generated": ""
+  },
+  {
+    "original": "Cerin",
+    "generated": ""
+  },
+  {
+    "original": "Amroth",
+    "generated": ""
+  },
+  {
+    "original": "Ilúvatar",
+    "generated": ""
+  },
+  {
+    "original": "Middle-earth",
+    "generated": ""
+  },
+  {
+    "original": "Moria",
+    "generated": ""
+  },
+  {
+    "original": "Harad",
+    "generated": ""
+  },
+  {
+    "original": "Valandil",
+    "generated": ""
+  },
+  {
+    "original": "Dúnadan",
+    "generated": ""
+  },
+  {
+    "original": "Quenya",
+    "generated": ""
+  },
+  {
+    "original": "Tarkil",
+    "generated": ""
+  },
+  {
+    "original": "Trotter",
+    "generated": ""
+  },
+  {
+    "original": "Sindar",
+    "generated": "",
+    "stems": [
+      "Sindarin"
+    ]
+  },
+  {
+    "original": "Padathir",
+    "generated": ""
+  },
+  {
+    "original": "Edhelharn",
+    "generated": ""
+  },
+  {
+    "original": "Elfstone",
+    "generated": ""
+  },
+  {
+    "original": "Tolkien",
+    "generated": ""
+  },
+  {
+    "original": "Peregrin",
+    "generated": ""
+  },
+  {
+    "original": "Boffin",
+    "generated": ""
+  },
+  {
+    "original": "Bilbo",
+    "generated": ""
+  },
+  {
+    "original": "Gandalf",
+    "generated": ""
+  },
+  {
+    "original": "Fosco",
+    "generated": ""
+  },
+  {
+    "original": "Took",
+    "generated": "",
+    "stems": []
+  },
+  {
+    "original": "Frodo",
+    "generated": ""
+  },
+  {
+    "original": "Sam",
+    "generated": "",
+    "stems": [
+      "Samwise"
+    ]
+  },
+  {
+    "original": "Gamgee",
+    "generated": ""
+  },
+  {
+    "original": "Rauros",
+    "generated": ""
+  },
+  {
+    "original": "Ingold",
+    "generated": ""
+  },
+  {
+    "original": "Sauron",
+    "generated": ""
+  },
+  {
+    "original": "Helms",
+    "generated": "",
+    "stems": [
+      "Helm's",
+      "Helm's"
+    ]
+  },
+  {
+    "original": "Dernhelm",
+    "generated": ""
+  },
+  {
+    "original": "Legolas",
+    "generated": "",
+    "stems": [
+      "Laegolas"
+    ]
+  },
+  {
+    "original": "Gimli",
+    "generated": ""
+  },
+  {
+    "original": "Saruman",
+    "generated": ""
+  },
+  {
+    "original": "Edoras",
+    "generated": ""
+  },
+  {
+    "original": "Théoden",
+    "generated": ""
+  },
+  {
+    "original": "Éored",
+    "generated": ""
+  },
+  {
+    "original": "Rohirrim",
+    "generated": ""
+  },
+  {
+    "original": "Isengard",
+    "generated": ""
+  },
+  {
+    "original": "Fangorn",
+    "generated": ""
+  },
+  {
+    "original": "Ent",
+    "generated": "",
+    "stems": [
+      "Ents"
+    ]
+  },
+  {
+    "original": "Éomer",
+    "generated": ""
+  },
+  {
+    "original": "Elladan",
+    "generated": ""
+  },
+  {
+    "original": "Elrohir",
+    "generated": ""
+  },
+  {
+    "original": "Halbarad",
+    "generated": ""
+  },
+  {
+    "original": "Athelas",
+    "generated": ""
+  },
+  {
+    "original": "Glorfindel",
+    "generated": ""
+  },
+  {
+    "original": "Elf-lord",
+    "generated": ""
+  },
+  {
+    "original": "Nazgûl",
+    "generated": ""
+  },
+  {
+    "original": "Ringwraiths",
+    "generated": ""
+  },
+  {
+    "original": "Bree",
+    "generated": "",
+    "stems": [
+      "Bree-lands"
+    ]
+  },
+  {
+    "original": "Weathertop",
+    "generated": ""
+  },
+  {
+    "original": "Trollshaws",
+    "generated": ""
+  },
+  {
+    "original": "Bruinen",
+    "generated": ""
+  },
+  {
+    "original": "Boromir",
+    "generated": ""
+  },
+  {
+    "original": "Peter Jackson",
+    "generated": ""
+  },
+  {
+    "original": "Dunharrow",
+    "generated": ""
+  },
+  {
+    "original": "palantír",
+    "generated": "",
+    "stems": [
+      "palantíri",
+      "Palantir"
+    ]
+  },
+  {
+    "original": "Pelargir",
+    "generated": ""
+  },
+  {
+    "original": "Anduin",
+    "generated": ""
+  },
+  {
+    "original": "Cair Andros",
+    "generated": ""
+  },
+  {
+    "original": "Ithilien",
+    "generated": ""
+  },
+  {
+    "original": "Easterlings",
+    "generated": ""
+  },
+  {
+    "original": "Aranarth",
+    "generated": ""
+  },
+  {
+    "original": "Midgewater Marshes",
+    "generated": ""
+  },
+  {
+    "original": "Númenórean",
+    "generated": ""
+  },
+  {
+    "original": "Tar-Minyatur",
+    "generated": ""
+  },
+  {
+    "original": "Rangers of the North",
+    "generated": ""
+  },
+  {
+    "original": "Baggins",
+    "generated": ""
+  },
+  {
+    "original": "Gollum",
+    "generated": ""
+  },
+  {
+    "original": "Rhovanion",
+    "generated": ""
+  },
+  {
+    "original": "Thranduil",
+    "generated": ""
+  },
+  {
+    "original": "Mirkwood",
+    "generated": ""
+  },
+  {
+    "original": "Mordor",
+    "generated": ""
+  },
+  {
+    "original": "Gildor",
+    "generated": ""
+  },
+  {
+    "original": "Inglorion",
+    "generated": ""
+  },
+  {
+    "original": "Tom",
+    "generated": ""
+  },
+  {
+    "original": "Bombadil",
+    "generated": ""
+  },
+  {
+    "original": "Barrow-downs",
+    "generated": ""
+  },
+  {
+    "original": "Prancing Pony",
+    "generated": "",
+    "stems": [
+      "Inn of the Prancing Pony"
+    ]
+  },
+  {
+    "original": "Barliman",
+    "generated": ""
+  },
+  {
+    "original": "Butterbur",
+    "generated": ""
+  },
+  {
+    "original": "Lone-lands",
+    "generated": ""
+  },
+  {
+    "original": "Eärendil",
+    "generated": ""
+  },
+  {
+    "original": "Mount Doom",
+    "generated": "",
+    "stems": [
+      "mountain"
+    ]
+  },
+  {
+    "original": "Cracks of Doom",
+    "generated": ""
+  },
+  {
+    "original": "Pippin",
+    "generated": ""
+  },
+  {
+    "original": "Misty Mountains",
+    "generated": ""
+  },
+  {
+    "original": "Crebain",
+    "generated": ""
+  },
+  {
+    "original": "Caradhras",
+    "generated": ""
+  },
+  {
+    "original": "Warg",
+    "generated": ""
+  },
+  {
+    "original": "Watcher in the Water",
+    "generated": ""
+  },
+  {
+    "original": "Mazarbul",
+    "generated": ""
+  },
+  {
+    "original": "Cave-troll",
+    "generated": ""
+  },
+  {
+    "original": "Balrog",
+    "generated": ""
+  },
+  {
+    "original": "Khazad-dûm",
+    "generated": ""
+  },
+  {
+    "original": "Anarion",
+    "generated": ""
+  },
+  {
+    "original": "Argonath",
+    "generated": ""
+  },
+  {
+    "original": "Parth Galen",
+    "generated": ""
+  },
+  {
+    "original": "Amon Hen",
+    "generated": ""
+  },
+  {
+    "original": "Uruk",
+    "generated": ""
+  },
+  {
+    "original": "hai",
+    "generated": ""
+  },
+  {
+    "original": "Order of Wizards",
+    "generated": ""
+  },
+  {
+    "original": "Council",
+    "generated": "",
+    "stems": [
+      "White Council"
+    ]
+  },
+  {
+    "original": "Gríma",
+    "generated": ""
+  },
+  {
+    "original": "Wormtongue",
+    "generated": ""
+  },
+  {
+    "original": "Tirith",
+    "generated": ""
+  },
+  {
+    "original": "Paths of the Dead",
+    "generated": ""
+  },
+  {
+    "original": "Malbeth the Seer",
+    "generated": ""
+  },
+  {
+    "original": "Pelennor",
+    "generated": ""
+  },
+  {
+    "original": "White Tree",
+    "generated": ""
+  },
+  {
+    "original": "Denethor",
+    "generated": ""
+  },
+  {
+    "original": "Éowyn",
+    "generated": ""
+  },
+  {
+    "original": "Witch-king",
+    "generated": ""
+  },
+  {
+    "original": "Faramir",
+    "generated": ""
+  },
+  {
+    "original": "Ioreth",
+    "generated": ""
+  },
+  {
+    "original": "The hands of the King are the hands of a healer, and so shall the rightful king be known",
+    "generated": ""
+  },
+  {
+    "original": "Minas",
+    "generated": ""
+  },
+  {
+    "original": "Morgul",
+    "generated": ""
+  },
+  {
+    "original": "Black Gate",
+    "generated": ""
+  },
+  {
+    "original": "Slag-hills",
+    "generated": ""
+  },
+  {
+    "original": "Morannon",
+    "generated": ""
+  },
+  {
+    "original": "Núrn",
+    "generated": ""
+  },
+  {
+    "original": "Númenor",
+    "generated": ""
+  },
+  {
+    "original": "Fourth Age",
+    "generated": ""
+  },
+  {
+    "original": "Eldar",
+    "generated": "",
+    "stems": [
+      "Eldarion"
+    ]
+  },
+  {
+    "original": "Imrahil",
+    "generated": ""
+  },
+  {
+    "original": "Gladden",
+    "generated": ""
+  },
+  {
+    "original": "Meneldil",
+    "generated": ""
+  },
+  {
+    "original": "Pelendur",
+    "generated": ""
+  },
+  {
+    "original": "Eärnil",
+    "generated": ""
+  },
+  {
+    "original": "Bill Ferny",
+    "generated": ""
+  },
+  {
+    "original": "Envinyatar",
+    "generated": ""
+  },
+  {
+    "original": "Bingo",
+    "generated": ""
+  },
+  {
+    "original": "B_olger",
+    "generated": ""
+  },
+  {
+    "original": "Undómiel",
+    "generated": ""
+  },
+  {
+    "original": "Padathir",
+    "generated": ""
+  },
+  {
+    "original": "Rimbedir",
+    "generated": ""
+  },
+  {
+    "original": "Balin",
+    "generated": ""
+  },
+  {
+    "original": "Fundin",
+    "generated": ""
+  },
+  {
+    "original": "Dwalin",
+    "generated": ""
+  },
+  {
+    "original": "Thorin",
+    "generated": ""
+  },
+  {
+    "original": "Lonely Mountain",
+    "generated": ""
+  },
+  {
+    "original": "Oakenshield",
+    "generated": ""
+  },
+  {
+    "original": "Erebor",
+    "generated": ""
+  },
+  {
+    "original": "Smaug",
+    "generated": ""
+  },
+  {
+    "original": "Dunland",
+    "generated": ""
+  },
+  {
+    "original": "Azanulbizar",
+    "generated": ""
+  },
+  {
+    "original": "Thráin",
+    "generated": ""
+  },
+  {
+    "original": "Green Dragon",
+    "generated": ""
+  },
+  {
+    "original": "Eagle",
+    "generated": "",
+    "stems": [
+      "Eagles"
+    ]
+  },
+  {
+    "original": "Carrock",
+    "generated": ""
+  },
+  {
+    "original": "Beorn",
+    "generated": ""
+  },
+  {
+    "original": "Lake-town",
+    "generated": ""
+  },
+  {
+    "original": "Roäc",
+    "generated": ""
+  },
+  {
+    "original": "Battle of Five Armies",
+    "generated": ""
+  },
+  {
+    "original": "Bolg",
+    "generated": ""
+  },
+  {
+    "original": "Lake-men",
+    "generated": ""
+  },
+  {
+    "original": "TA",
+    "generated": ""
+  },
+  {
+    "original": "Bag End",
+    "generated": ""
+  },
+  {
+    "original": "Óin",
+    "generated": ""
+  },
+  {
+    "original": "Ori",
+    "generated": ""
+  },
+  {
+    "original": "Mithril",
+    "generated": ""
+  },
+  {
+    "original": "Durin",
+    "generated": ""
+  },
+  {
+    "original": "Mirrormere",
+    "generated": ""
+  },
+  {
+    "original": "Mazarbul",
+    "generated": ""
+  },
+  {
+    "original": "An Unexpected Journey",
+    "generated": ""
+  },
+  {
+    "original": "Undying Lands",
+    "generated": ""
+  },
+  {
+    "original": "Belladonna",
+    "generated": ""
+  },
+  {
+    "original": "Glóin",
+    "generated": ""
+  },
+  {
+    "original": "Trolls' lair",
+    "generated": ""
+  },
+  {
+    "original": "Glamdring",
+    "generated": ""
+  },
+  {
+    "original": "Orcrist",
+    "generated": ""
+  },
+  {
+    "original": "Fíli",
+    "generated": "",
+    "stems": [
+      "Fili"
+    ]
+  },
+  {
+    "original": "Kíli",
+    "generated": "",
+    "stems": [
+      "Kili"
+    ]
+  },
+  {
+    "original": "Iron Hills",
+    "generated": ""
+  },
+  {
+    "original": "Dáin",
+    "generated": ""
+  },
+  {
+    "original": "Ironfoot",
+    "generated": ""
+  },
+  {
+    "original": "Sackville",
+    "generated": ""
+  },
+  {
+    "original": "Brandybuck",
+    "generated": ""
+  },
+  {
+    "original": "precious",
+    "generated": ""
+  },
+  {
+    "original": "Red Book of Westmarch",
+    "generated": ""
+  },
+  {
+    "original": "Sting",
+    "generated": ""
+  },
+  {
+    "original": "Grey Havens",
+    "generated": ""
+  },
+  {
+    "original": "Valinor",
+    "generated": ""
+  },
+  {
+    "original": "White Tower",
+    "generated": ""
+  },
+  {
+    "original": "Osgiliath",
+    "generated": ""
+  },
+  {
+    "original": "Return of the King",
+    "generated": ""
+  },
+  {
+    "original": "Adrahil",
+    "generated": ""
+  },
+  {
+    "original": "Finduilas",
+    "generated": ""
+  },
+  {
+    "original": "Istar",
+    "generated": ""
+  },
+  {
+    "original": "Imladris",
+    "generated": ""
+  },
+  {
+    "original": "Halfling",
+    "generated": ""
+  },
+  {
+    "original": "Tharbad",
+    "generated": ""
+  },
+  {
+    "original": "Great Horn",
+    "generated": ""
+  },
+  {
+    "original": "Drogo",
+    "generated": ""
+  },
+  {
+    "original": "Southrons",
+    "generated": ""
+  },
+  {
+    "original": "Henneth Annûn",
+    "generated": ""
+  },
+  {
+    "original": "Anor",
+    "generated": ""
+  },
+  {
+    "original": "Noldorin",
+    "generated": ""
+  },
+  {
+    "original": "Elboron",
+    "generated": ""
+  },
+  {
+    "original": "Emyn Arnen",
+    "generated": ""
+  },
+  {
+    "original": "Belecthor",
+    "generated": ""
+  },
+  {
+    "original": "Beregond",
+    "generated": ""
+  },
+  {
+    "original": "Cirith Ungol",
+    "generated": ""
+  },
+  {
+    "original": "Forbidden Pool",
+    "generated": ""
+  },
+  {
+    "original": "Black Wing",
+    "generated": ""
+  },
+  {
+    "original": "Shelob",
+    "generated": ""
+  },
+  {
+    "original": "Underhill",
+    "generated": ""
+  },
+  {
+    "original": "Asfaloth",
+    "generated": ""
+  },
+  {
+    "original": "Elbereth",
+    "generated": ""
+  },
+  {
+    "original": "Gilthoniel",
+    "generated": ""
+  },
+  {
+    "original": "Valar",
+    "generated": ""
+  },
+  {
+    "original": "Black Rider",
+    "generated": ""
+  },
+  {
+    "original": "Finrod",
+    "generated": ""
+  },
+  {
+    "original": "Emyn Muil",
+    "generated": ""
+  },
+  {
+    "original": "Bamfurlong",
+    "generated": ""
+  },
+  {
+    "original": "Eregion",
+    "generated": ""
+  },
+  {
+    "original": "Gondorian",
+    "generated": ""
+  },
+  {
+    "original": "Cormallen",
+    "generated": ""
+  },
+  {
+    "original": "Sharkey",
+    "generated": ""
+  },
+  {
+    "original": "The Dead Marsh",
+    "generated": ""
+  },
+  {
+    "original": "Meriadoc",
+    "generated": "",
+    "stems": [
+      "Merry"
+    ]
+  },
+  {
+    "original": "Brandy Hal",
+    "generated": ""
+  },
+  {
+    "original": "Buckland",
+    "generated": ""
+  },
+  {
+    "original": "Farmer Maggot",
+    "generated": ""
+  },
+  {
+    "original": "Brandywine",
+    "generated": ""
+  },
+  {
+    "original": "Crickhollow",
+    "generated": ""
+  },
+  {
+    "original": "Bucklebury Ferry",
+    "generated": ""
+  },
+  {
+    "original": "Orodruin",
+    "generated": ""
+  },
+  {
+    "original": "Landroval",
+    "generated": ""
+  },
+  {
+    "original": "Gwaihir",
+    "generated": ""
+  },
+  {
+    "original": "Meneldor",
+    "generated": ""
+  },
+  {
+    "original": "Bywater",
+    "generated": ""
+  },
+  {
+    "original": "Ruffians",
+    "generated": ""
+  },
+  {
+    "original": "Rosie",
+    "generated": ""
+  },
+  {
+    "original": "Cotton",
+    "generated": ""
+  },
+  {
+    "original": "Will Whitfoot",
+    "generated": ""
+  },
+  {
+    "original": "Elanor",
+    "generated": ""
+  },
+  {
+    "original": "There and Back Again",
+    "generated": ""
+  },
+  {
+    "original": "Tol",
+    "generated": ""
+  },
+  {
+    "original": "Eressëa",
+    "generated": ""
+  },
+  {
+    "original": "Arda",
+    "generated": ""
+  },
+  {
+    "original": "Watcher",
+    "generated": "",
+    "stems": [
+      "Two Watchers",
+      "Watchers"
+    ]
+  },
+  {
+    "original": "Ñoldor",
+    "generated": ""
+  },
+  {
+    "original": "Aman",
+    "generated": ""
+  },
+  {
+    "original": "Eldamar",
+    "generated": ""
+  },
+  {
+    "original": "First Age",
+    "generated": ""
+  },
+  {
+    "original": "War of Wrath",
+    "generated": ""
+  },
+  {
+    "original": "Dagor Bragollach",
+    "generated": ""
+  },
+  {
+    "original": "jewel",
+    "generated": "",
+    "stems": [
+      "Great Jewels"
+    ]
+  },
+  {
+    "original": "Fëanor",
+    "generated": ""
+  },
+  {
+    "original": "Celeborn",
+    "generated": ""
+  },
+  {
+    "original": "Lórinand",
+    "generated": ""
+  },
+  {
+    "original": "Nandorin",
+    "generated": ""
+  },
+  {
+    "original": "Eriador",
+    "generated": ""
+  },
+  {
+    "original": "Alqualondë",
+    "generated": ""
+  },
+  {
+    "original": "Celebrían",
+    "generated": ""
+  },
+  {
+    "original": "Elven-cloaks",
+    "generated": ""
+  },
+  {
+    "original": "Gil-Orestel",
+    "generated": ""
+  },
+  {
+    "original": "Galadhon",
+    "generated": ""
+  },
+  {
+    "original": "Second Age",
+    "generated": ""
+  },
+  {
+    "original": "Finarfin",
+    "generated": ""
+  },
+  {
+    "original": "Eärwen",
+    "generated": ""
+  },
+  {
+    "original": "Angrod",
+    "generated": ""
+  },
+  {
+    "original": "Beleriand",
+    "generated": ""
+  },
+  {
+    "original": "Nargothrond",
+    "generated": ""
+  },
+  {
+    "original": "Treebeard",
+    "generated": ""
+  },
+  {
+    "original": "Gil-galad",
+    "generated": ""
+  },
+  {
+    "original": "Eönwë",
+    "generated": ""
+  },
+  {
+    "original": "Melian",
+    "generated": ""
+  },
+  {
+    "original": "Aegnor",
+    "generated": ""
+  },
+  {
+    "original": "Manwë",
+    "generated": ""
+  },
+  {
+    "original": "Lindon",
+    "generated": ""
+  },
+  {
+    "original": "Laegil",
+    "generated": ""
+  },
+  {
+    "original": "Guldur",
+    "generated": "",
+    "stems": [
+      "Dol Guldur"
+    ]
+  },
+  {
+    "original": "Galadhrim",
+    "generated": ""
+  },
+  {
+    "original": "Nenya",
+    "generated": ""
+  },
+  {
+    "original": "Uttermost West",
+    "generated": ""
+  },
+  {
+    "original": "Artanis",
+    "generated": ""
+  },
+  {
+    "original": "Doriath",
+    "generated": ""
+  },
+  {
+    "original": "Thingol",
+    "generated": ""
+  },
+  {
+    "original": "Finwë",
+    "generated": ""
+  },
+  {
+    "original": "Silmarils",
+    "generated": ""
+  },
+  {
+    "original": "Doom of Mandos",
+    "generated": ""
+  },
+  {
+    "original": "Nerwen",
+    "generated": ""
+  },
+  {
+    "original": "Falmari",
+    "generated": ""
+  },
+  {
+    "original": "Amazon",
+    "generated": ""
+  },
+  {
+    "original": "Trees",
+    "generated": "",
+    "stems": [
+      "Three Trees",
+      "Two Trees"
+    ]
+  },
+  {
+    "original": "Menegroth",
+    "generated": ""
+  },
+  {
+    "original": "King Elu",
+    "generated": ""
+  },
+  {
+    "original": "Narog",
+    "generated": ""
+  },
+  {
+    "original": "Telerian",
+    "generated": ""
+  },
+  {
+    "original": "Losgar",
+    "generated": ""
+  },
+  {
+    "original": "Yavanna",
+    "generated": ""
+  },
+  {
+    "original": "Celebrimbor",
+    "generated": ""
+  },
+  {
+    "original": "Ost-in-Edhil",
+    "generated": ""
+  },
+  {
+    "original": "Aldarion",
+    "generated": ""
+  },
+  {
+    "original": "Elven-smith",
+    "generated": ""
+  },
+  {
+    "original": "Gwaith-i-Mírdain",
+    "generated": ""
+  },
+  {
+    "original": "Ulmo",
+    "generated": ""
+  },
+  {
+    "original": "Belfalas",
+    "generated": ""
+  },
+  {
+    "original": "Rhovanion",
+    "generated": ""
+  },
+  {
+    "original": "Círdan",
+    "generated": ""
+  },
+  {
+    "original": "Silvan",
+    "generated": "",
+    "stems": [
+      "Silvan Elves"
+    ]
+  },
+  {
+    "original": "Eorl",
+    "generated": ""
+  },
+  {
+    "original": "Battle of the Field of Celebrant",
+    "generated": ""
+  },
+  {
+    "original": "lembas",
+    "generated": ""
+  },
+  {
+    "original": "Mallorn",
+    "generated": ""
+  },
+  {
+    "original": "Celebdil",
+    "generated": ""
+  },
+  {
+    "original": "Barad-dûr",
+    "generated": ""
+  },
+  {
+    "original": "Envinyanta",
+    "generated": ""
+  },
+  {
+    "original": "Mithlond",
+    "generated": ""
+  },
+  {
+    "original": "Olórin",
+    "generated": "",
+    "stems": [
+      "Olorion"
+    ]
+  },
+  {
+    "original": "Maiar",
+    "generated": ""
+  },
+  {
+    "original": "Ainur",
+    "generated": ""
+  },
+  {
+    "original": "Varda",
+    "generated": ""
+  },
+  {
+    "original": "Irmo",
+    "generated": ""
+  },
+  {
+    "original": "Mithrandir",
+    "generated": ""
+  },
+  {
+    "original": "Tharkûn",
+    "generated": ""
+  },
+  {
+    "original": "Holman",
+    "generated": ""
+  },
+  {
+    "original": "Troll",
+    "generated": ""
+  },
+  {
+    "original": "Goblin",
+    "generated": ""
+  },
+  {
+    "original": "Nienna",
+    "generated": ""
+  },
+  {
+    "original": "Necromancer",
+    "generated": ""
+  },
+  {
+    "original": "Incánus",
+    "generated": ""
+  },
+  {
+    "original": "Dvergatal",
+    "generated": ""
+  },
+  {
+    "original": "Dale",
+    "generated": ""
+  },
+  {
+    "original": "Ered Luin",
+    "generated": ""
+  },
+  {
+    "original": "White Rider",
+    "generated": ""
+  },
+  {
+    "original": "Two Towers",
+    "generated": ""
+  },
+  {
+    "original": "Black Speech",
+    "generated": ""
+  },
+  {
+    "original": "Radagast",
+    "generated": ""
+  },
+  {
+    "original": "Orthanc",
+    "generated": ""
+  },
+  {
+    "original": "Shadowfax",
+    "generated": ""
+  },
+  {
+    "original": "Redhorn Pass",
+    "generated": ""
+  },
+  {
+    "original": "You cannot pass",
+    "generated": ""
+  },
+  {
+    "original": "I am a servant of the Secret Fire",
+    "generated": ""
+  },
+  {
+    "original": "Udûn",
+    "generated": ""
+  },
+  {
+    "original": "Morgoth",
+    "generated": ""
+  },
+  {
+    "original": "Zirakzigil",
+    "generated": ""
+  },
+  {
+    "original": "Eru",
+    "generated": ""
+  },
+  {
+    "original": "Caras",
+    "generated": ""
+  },
+  {
+    "original": "Three Hunters",
+    "generated": ""
+  },
+  {
+    "original": "Westfold",
+    "generated": ""
+  },
+  {
+    "original": "Huorns",
+    "generated": ""
+  },
+  {
+    "original": "Seeing Stone",
+    "generated": ""
+  },
+  {
+    "original": "Grond",
+    "generated": ""
+  },
+  {
+    "original": "Barrow-blade",
+    "generated": ""
+  },
+  {
+    "original": "Towers of the Teeth",
+    "generated": ""
+  },
+  {
+    "original": "Mindolluin",
+    "generated": ""
+  },
+  {
+    "original": "Narya",
+    "generated": ""
+  },
+  {
+    "original": "Sméagol",
+    "generated": "",
+    "stems": [
+      "smay-ah-gol"
+    ]
+  },
+  {
+    "original": "Trahald",
+    "generated": ""
+  },
+  {
+    "original": "Stoor",
+    "generated": ""
+  },
+  {
+    "original": "Déagol",
+    "generated": ""
+  },
+  {
+    "original": "Gladden Fields",
+    "generated": ""
+  },
+  {
+    "original": "riddle-game",
+    "generated": ""
+  },
+  {
+    "original": "What have I got in my pocket",
+    "generated": ""
+  },
+  {
+    "original": "Nen Hithoel",
+    "generated": ""
+  },
+  {
+    "original": "Ephel Dúath",
+    "generated": ""
+  },
+  {
+    "original": "Ungoliant",
+    "generated": ""
+  },
+  {
+    "original": "Torech Ungol",
+    "generated": ""
+  },
+  {
+    "original": "Gorbag",
+    "generated": ""
+  },
+  {
+    "original": "Shagrat",
+    "generated": ""
+  },
+  {
+    "original": "Nine Riders",
+    "generated": ""
+  },
+  {
+    "original": "Nine Walkers",
+    "generated": ""
+  },
+  {
+    "original": "Arod",
+    "generated": ""
+  },
+  {
+    "original": "Glittering Caves",
+    "generated": ""
+  },
+  {
+    "original": "Bill the Pony",
+    "generated": ""
+  },
+  {
+    "original": "J.R.R.",
+    "generated": ""
+  },
+  {
+    "original": "Gondolin",
+    "generated": ""
+  },
+  {
+    "original": "Thrór",
+    "generated": ""
+  },
+  {
+    "original": "Allen & Unwin",
+    "generated": ""
+  },
+  {
+    "original": "Nori",
+    "generated": ""
+  },
+  {
+    "original": "Dori",
+    "generated": ""
+  },
+  {
+    "original": "Bifur",
+    "generated": ""
+  },
+  {
+    "original": "Bofur",
+    "generated": ""
+  },
+  {
+    "original": "Bombur",
+    "generated": ""
+  },
+  {
+    "original": "Arkenstone",
+    "generated": ""
+  },
+  {
+    "original": "Baran",
+    "generated": ""
+  },
+  {
+    "original": "Ghân-buri-Ghân",
+    "generated": ""
+  },
+  {
+    "original": "Rhûn",
+    "generated": ""
+  },
+  {
+    "original": "Drúadan",
+    "generated": ""
+  },
+  {
+    "original": "Causeway Forts",
+    "generated": ""
+  },
+  {
+    "original": "Houses of Healing",
+    "generated": ""
+  },
+  {
+    "original": "Erkenbrand",
+    "generated": ""
+  },
+  {
+    "original": "Uglúk",
+    "generated": ""
+  },
+  {
+    "original": "Grishnákh",
+    "generated": ""
+  },
+  {
+    "original": "Quickbeam",
+    "generated": ""
+  },
+  {
+    "original": "Oliphaunt",
+    "generated": ""
+  },
+  {
+    "original": "Dead Marshes",
+    "generated": ""
+  },
+  {
+    "original": "Fingolfin",
+    "generated": ""
+  },
+  {
+    "original": "Primula",
+    "generated": ""
+  },
+  {
+    "original": "Helcaraxë",
+    "generated": ""
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "index_type": "flat",
+  "num_vectors": 724,
+  "dimension": 384,
+  "faiss_version": "1.13.0"
+}
